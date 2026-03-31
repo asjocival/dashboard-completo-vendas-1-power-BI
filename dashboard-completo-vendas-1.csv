@@ -1,0 +1,1000 @@
+ProdutoID;Produtos;Subcategoria;Categoria;VendalD;Data;ProdutoID;Quantidade;Receita;Custo;Lucro;Regiao;Vendedor;Tipo Perda;Valor Perda;Status da Venda
+28;Headset Gamer Logitech;Acessórios;Informática;26;20/03/2022;28;9;R$ 3.915,00;R$ 2.857,95;R$ 1.057,05;Sudeste;João;Cancelamento;R$ 425,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;81;01/07/2022;60;9;R$ 3.978,00;R$ 2.347,02;R$ 1.630,98;Centro-Oeste;André;Cancelamento;R$ 285,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;83;07/04/2024;33;3;R$ 9.828,00;R$ 5.995,08;R$ 3.832,92;Sul;Bruno;Desconto;R$ 121,00;Com Perda
+50;Cama Box Solteiro;Móveis;Casa;60;03/01/2018;50;2;R$ 8.332,00;R$ 6.082,36;R$ 2.249,64;Centro-Oeste;Carla;Cancelamento;R$ 382,00;Com Perda
+95;Switch de Rede;Informática;Informática;35;24/01/2025;95;3;R$ 4.947,00;R$ 3.858,66;R$ 1.088,34;Centro-Oeste;Carla;Cancelamento;R$ 89,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;77;15/05/2024;46;1;R$ 4.473,00;R$ 2.773,26;R$ 1.699,74;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;66;10/03/2018;11;9;R$ 33.426,00;R$ 20.055,60;R$ 13.370,40;Nordeste;Carlos;Devolução;R$ 114,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;6;11/05/2017;52;6;R$ 18.714,00;R$ 14.409,78;R$ 4.304,22;Centro-Oeste;André;Cancelamento;R$ 420,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;46;08/01/2025;60;1;R$ 2.967,00;R$ 1.513,17;R$ 1.453,83;Norte;Juliana;Cancelamento;R$ 203,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;14;22/12/2019;20;4;R$ 4.616,00;R$ 3.462,00;R$ 1.154,00;Sudeste;Pedro;Devolução;R$ 458,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;84;23/02/2020;39;7;R$ 4.088,00;R$ 2.657,20;R$ 1.430,80;Nordeste;Rafael;Cancelamento;R$ 435,00;Com Perda
+37;Air Fryer Philips;Eletrodomésticos;Casa;66;18/05/2025;37;10;R$ 2.370,00;R$ 1.350,90;R$ 1.019,10;Sul;Maria;Desconto;R$ 446,00;Com Perda
+97;SSD 500GB;Informática;Informática;42;19/07/2018;97;8;R$ 12.384,00;R$ 8.173,44;R$ 4.210,56;Sudeste;Ana;Devolução;R$ 143,00;Com Perda
+92;Monitor LG 24;Informática;Informática;34;13/06/2022;92;1;R$ 3.216,00;R$ 2.508,48;R$ 707,52;Nordeste;Carlos;Cancelamento;R$ 127,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;86;14/08/2022;18;6;R$ 24.066,00;R$ 13.717,62;R$ 10.348,38;Nordeste;Fernanda;Devolução;R$ 132,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;69;14/01/2024;13;2;R$ 7.036,00;R$ 3.588,36;R$ 3.447,64;Sudeste;Pedro;Cancelamento;R$ 487,00;Com Perda
+68;Shampoo;Beleza;Beleza;8;09/10/2025;68;2;R$ 5.616,00;R$ 3.257,28;R$ 2.358,72;Sudeste;Ana;Desconto;R$ 489,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;81;01/02/2020;54;2;R$ 3.984,00;R$ 2.191,20;R$ 1.792,80;Sudeste;Pedro;Desconto;R$ 416,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;92;08/12/2022;60;9;R$ 43.308,00;R$ 28.150,20;R$ 15.157,80;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;84;07/02/2024;25;2;R$ 3.160,00;R$ 2.496,40;R$ 663,60;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;71;06/10/2025;39;8;R$ 10.632,00;R$ 8.399,28;R$ 2.232,72;Centro-Oeste;Carla;Devolução;R$ 477,00;Com Perda
+43;Sofá 3 Lugares;Móveis;Casa;45;07/10/2018;43;9;R$ 6.723,00;R$ 4.975,02;R$ 1.747,98;Norte;Marcos;Desconto;R$ 446,00;Com Perda
+16;Smart TV Philips 50;TVs;Eletrônicos;88;25/07/2020;16;10;R$ 10.780,00;R$ 6.899,20;R$ 3.880,80;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;71;15/12/2018;18;7;R$ 6.209,00;R$ 4.284,21;R$ 1.924,79;Norte;Marcos;Cancelamento;R$ 335,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;70;18/02/2020;93;4;R$ 9.824,00;R$ 6.975,04;R$ 2.848,96;Sudeste;João;Devolução;R$ 91,00;Com Perda
+59;Camiseta Básica;Roupas;Roupas;77;17/07/2025;59;7;R$ 21.931,00;R$ 16.667,56;R$ 5.263,44;Nordeste;Rafael;Desconto;R$ 70,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;95;07/11/2025;26;9;R$ 22.653,00;R$ 14.724,45;R$ 7.928,55;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;50;24/12/2023;51;1;R$ 1.458,00;R$ 1.078,92;R$ 379,08;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;21;12/10/2024;8;5;R$ 9.545,00;R$ 5.631,55;R$ 3.913,45;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;17;12/11/2021;85;9;R$ 24.885,00;R$ 18.663,75;R$ 6.221,25;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;92;22/09/2016;3;10;R$ 12.010,00;R$ 6.605,50;R$ 5.404,50;Centro-Oeste;Carla;Cancelamento;R$ 257,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;38;28/02/2016;99;5;R$ 12.145,00;R$ 7.529,90;R$ 4.615,10;Centro-Oeste;Carla;Devolução;R$ 268,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;10;26/05/2019;28;1;R$ 1.564,00;R$ 985,32;R$ 578,68;Centro-Oeste;André;Cancelamento;R$ 130,00;Com Perda
+97;SSD 500GB;Informática;Informática;57;24/05/2019;97;7;R$ 27.552,00;R$ 14.602,56;R$ 12.949,44;Centro-Oeste;André;Cancelamento;R$ 100,00;Com Perda
+89;Impressora HP;Informática;Informática;53;24/05/2019;89;2;R$ 1.086,00;R$ 836,22;R$ 249,78;Norte;Paula;Devolução;R$ 426,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;9;01/03/2023;2;10;R$ 3.740,00;R$ 2.543,20;R$ 1.196,80;Norte;Marcos;Desconto;R$ 393,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;100;22/10/2024;75;2;R$ 1.594,00;R$ 1.052,04;R$ 541,96;Nordeste;Fernanda;Desconto;R$ 79,00;Com Perda
+21;MacBook Air;Notebooks;Informática;14;01/07/2019;21;5;R$ 24.280,00;R$ 14.810,80;R$ 9.469,20;Norte;Paula;Cancelamento;R$ 64,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;30;11/10/2023;85;6;R$ 21.660,00;R$ 15.378,60;R$ 6.281,40;Nordeste;Carlos;Desconto;R$ 414,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;23;24/02/2017;30;10;R$ 40.310,00;R$ 23.379,80;R$ 16.930,20;Centro-Oeste;André;Cancelamento;R$ 70,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;26;09/12/2015;60;9;R$ 31.230,00;R$ 15.615,00;R$ 15.615,00;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;12;18/05/2017;13;4;R$ 17.896,00;R$ 10.200,72;R$ 7.695,28;Norte;Marcos;Devolução;R$ 395,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;39;27/01/2021;46;4;R$ 17.028,00;R$ 11.579,04;R$ 5.448,96;Norte;Juliana;Cancelamento;R$ 387,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;14;23/11/2025;3;5;R$ 20.465,00;R$ 11.460,40;R$ 9.004,60;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;38;08/12/2016;9;4;R$ 6.672,00;R$ 4.136,64;R$ 2.535,36;Norte;Juliana;Desconto;R$ 53,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;32;14/05/2024;36;3;R$ 8.133,00;R$ 6.506,40;R$ 1.626,60;Centro-Oeste;André;Cancelamento;R$ 242,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;3;19/04/2019;36;7;R$ 5.558,00;R$ 4.001,76;R$ 1.556,24;Centro-Oeste;Diego;Devolução;R$ 287,00;Com Perda
+67;Hidratante Corporal;Beleza;Beleza;17;24/01/2021;67;10;R$ 1.800,00;R$ 1.404,00;R$ 396,00;Sudeste;Pedro;Devolução;R$ 498,00;Com Perda
+68;Shampoo;Beleza;Beleza;72;10/12/2019;68;6;R$ 1.962,00;R$ 1.393,02;R$ 568,98;Nordeste;Carlos;Devolução;R$ 276,00;Com Perda
+92;Monitor LG 24;Informática;Informática;10;21/07/2017;92;9;R$ 28.089,00;R$ 19.943,19;R$ 8.145,81;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+92;Monitor LG 24;Informática;Informática;68;13/02/2015;92;9;R$ 26.451,00;R$ 20.367,27;R$ 6.083,73;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;67;21/11/2016;38;1;R$ 2.914,00;R$ 1.544,42;R$ 1.369,58;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;100;23/10/2019;13;1;R$ 2.031,00;R$ 1.421,70;R$ 609,30;Nordeste;Rafael;Devolução;R$ 91,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;95;14/11/2022;85;6;R$ 11.610,00;R$ 6.617,70;R$ 4.992,30;Centro-Oeste;André;Devolução;R$ 96,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;92;02/06/2022;38;4;R$ 12.628,00;R$ 9.218,44;R$ 3.409,56;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;89;19/08/2016;57;6;R$ 22.560,00;R$ 13.084,80;R$ 9.475,20;Sul;Bruno;Cancelamento;R$ 158,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;23;07/12/2023;40;9;R$ 10.593,00;R$ 5.508,36;R$ 5.084,64;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+89;Impressora HP;Informática;Informática;84;23/03/2023;89;1;R$ 3.351,00;R$ 2.345,70;R$ 1.005,30;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;8;05/12/2015;96;1;R$ 3.607,00;R$ 1.911,71;R$ 1.695,29;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;23;01/07/2023;70;9;R$ 12.456,00;R$ 9.715,68;R$ 2.740,32;Sudeste;João;Devolução;R$ 421,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;13;27/10/2022;15;2;R$ 3.898,00;R$ 2.611,66;R$ 1.286,34;Centro-Oeste;Carla;Cancelamento;R$ 332,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;59;08/08/2018;28;2;R$ 2.226,00;R$ 1.135,26;R$ 1.090,74;Norte;Paula;Desconto;R$ 315,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;57;22/01/2023;32;1;R$ 311,00;R$ 171,05;R$ 139,95;Sudeste;Pedro;Cancelamento;R$ 460,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;74;09/09/2019;93;3;R$ 8.493,00;R$ 5.180,73;R$ 3.312,27;Norte;Paula;Cancelamento;R$ 119,00;Com Perda
+16;Smart TV Philips 50;TVs;Eletrônicos;80;15/11/2025;16;10;R$ 12.520,00;R$ 8.263,20;R$ 4.256,80;Sudeste;Pedro;Cancelamento;R$ 289,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;75;19/04/2021;56;2;R$ 8.130,00;R$ 5.609,70;R$ 2.520,30;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;61;05/01/2023;19;9;R$ 1.125,00;R$ 866,25;R$ 258,75;Nordeste;Fernanda;Desconto;R$ 313,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;80;19/12/2016;60;4;R$ 11.000,00;R$ 8.250,00;R$ 2.750,00;Nordeste;Fernanda;Devolução;R$ 404,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;11;01/05/2022;77;8;R$ 32.544,00;R$ 17.248,32;R$ 15.295,68;Norte;Marcos;Devolução;R$ 411,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;67;19/05/2015;65;4;R$ 6.148,00;R$ 3.504,36;R$ 2.643,64;Sudeste;Pedro;Devolução;R$ 287,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;49;20/06/2020;54;2;R$ 5.936,00;R$ 4.095,84;R$ 1.840,16;Nordeste;Rafael;Devolução;R$ 150,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;76;21/11/2021;32;2;R$ 8.426,00;R$ 5.224,12;R$ 3.201,88;Nordeste;Rafael;Devolução;R$ 306,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;7;04/10/2015;74;5;R$ 21.115,00;R$ 12.880,15;R$ 8.234,85;Sudeste;João;Desconto;R$ 418,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;72;24/12/2023;33;1;R$ 2.910,00;R$ 2.037,00;R$ 873,00;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;71;07/10/2022;100;9;R$ 39.339,00;R$ 23.210,01;R$ 16.128,99;Sudeste;João;Devolução;R$ 384,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;14;06/02/2016;82;3;R$ 6.336,00;R$ 4.815,36;R$ 1.520,64;Sul;Maria;Devolução;R$ 376,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;31;25/01/2021;44;7;R$ 34.783,00;R$ 26.435,08;R$ 8.347,92;Sudeste;João;Devolução;R$ 463,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;34;10/10/2020;20;6;R$ 7.620,00;R$ 4.114,80;R$ 3.505,20;Sudeste;Ana;Devolução;R$ 269,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;75;09/03/2021;19;7;R$ 14.406,00;R$ 11.380,74;R$ 3.025,26;Sul;Maria;Cancelamento;R$ 497,00;Com Perda
+42;Sofá 2 Lugares;Móveis;Casa;31;04/05/2020;42;10;R$ 22.390,00;R$ 11.642,80;R$ 10.747,20;Sudeste;João;Desconto;R$ 290,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;72;08/11/2025;22;3;R$ 1.539,00;R$ 1.169,64;R$ 369,36;Sul;Maria;Devolução;R$ 202,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;22;08/10/2021;30;3;R$ 11.052,00;R$ 5.526,00;R$ 5.526,00;Centro-Oeste;André;Devolução;R$ 155,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;100;13/03/2023;48;9;R$ 37.746,00;R$ 26.799,66;R$ 10.946,34;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;48;17/06/2016;33;2;R$ 6.614,00;R$ 4.299,10;R$ 2.314,90;Norte;Marcos;Cancelamento;R$ 303,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;1;24/12/2024;28;6;R$ 11.334,00;R$ 8.727,18;R$ 2.606,82;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;46;05/09/2023;71;2;R$ 6.468,00;R$ 4.915,68;R$ 1.552,32;Nordeste;Fernanda;Cancelamento;R$ 157,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;71;20/04/2023;82;7;R$ 28.441,00;R$ 19.339,88;R$ 9.101,12;Centro-Oeste;Carla;Desconto;R$ 477,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;96;10/04/2016;87;4;R$ 10.348,00;R$ 7.450,56;R$ 2.897,44;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;50;24/10/2025;83;7;R$ 23.835,00;R$ 12.155,85;R$ 11.679,15;Sul;Bruno;Desconto;R$ 493,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;43;21/08/2019;80;8;R$ 22.664,00;R$ 12.011,92;R$ 10.652,08;Sudeste;Pedro;Desconto;R$ 241,00;Com Perda
+66;Creme Facial;Beleza;Beleza;74;02/05/2021;66;7;R$ 13.692,00;R$ 10.405,92;R$ 3.286,08;Centro-Oeste;André;Devolução;R$ 83,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;47;12/03/2023;7;3;R$ 12.054,00;R$ 9.281,58;R$ 2.772,42;Sudeste;João;Devolução;R$ 293,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;72;04/05/2021;57;4;R$ 15.996,00;R$ 8.477,88;R$ 7.518,12;Sul;Lucas;Devolução;R$ 337,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;78;28/12/2020;44;9;R$ 34.722,00;R$ 19.097,10;R$ 15.624,90;Nordeste;Fernanda;Desconto;R$ 163,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;17;04/12/2024;100;1;R$ 786,00;R$ 416,58;R$ 369,42;Sul;Lucas;Desconto;R$ 411,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;16;03/11/2019;46;4;R$ 15.584,00;R$ 8.415,36;R$ 7.168,64;Norte;Marcos;Desconto;R$ 440,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;13;19/07/2025;58;1;R$ 3.950,00;R$ 2.212,00;R$ 1.738,00;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+21;MacBook Air;Notebooks;Informática;22;16/11/2019;21;4;R$ 15.380,00;R$ 8.151,40;R$ 7.228,60;Norte;Paula;Desconto;R$ 211,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;35;20/08/2025;15;3;R$ 4.536,00;R$ 3.492,72;R$ 1.043,28;Sul;Lucas;Devolução;R$ 384,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;95;16/01/2025;22;2;R$ 1.340,00;R$ 1.031,80;R$ 308,20;Centro-Oeste;André;Devolução;R$ 467,00;Com Perda
+76;Bicicleta Ergométrica;Esportes;Esportes;42;17/11/2016;76;3;R$ 3.705,00;R$ 2.964,00;R$ 741,00;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+92;Monitor LG 24;Informática;Informática;77;06/11/2023;92;6;R$ 20.994,00;R$ 16.795,20;R$ 4.198,80;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;16;08/05/2025;8;7;R$ 19.761,00;R$ 15.611,19;R$ 4.149,81;Sul;Maria;Devolução;R$ 434,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;25;20/07/2022;39;6;R$ 12.108,00;R$ 6.296,16;R$ 5.811,84;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;76;08/10/2019;17;8;R$ 13.120,00;R$ 8.003,20;R$ 5.116,80;Centro-Oeste;Diego;Cancelamento;R$ 277,00;Com Perda
+4;Samsung Galaxy S21;Smartphones;Eletrônicos;59;14/09/2020;4;4;R$ 20.000,00;R$ 14.400,00;R$ 5.600,00;Norte;Marcos;Cancelamento;R$ 224,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;95;14/02/2021;52;1;R$ 4.930,00;R$ 3.894,70;R$ 1.035,30;Sudeste;Ana;Cancelamento;R$ 398,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;9;13/06/2024;41;3;R$ 8.889,00;R$ 4.977,84;R$ 3.911,16;Norte;Marcos;Desconto;R$ 182,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;64;18/09/2021;96;5;R$ 890,00;R$ 685,30;R$ 204,70;Sudeste;Ana;Desconto;R$ 337,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;85;22/02/2020;19;10;R$ 35.590,00;R$ 18.150,90;R$ 17.439,10;Sudeste;Pedro;Devolução;R$ 472,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;61;23/02/2016;22;6;R$ 22.212,00;R$ 13.327,20;R$ 8.884,80;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;92;24/12/2021;93;8;R$ 26.208,00;R$ 20.442,24;R$ 5.765,76;Nordeste;Rafael;Desconto;R$ 133,00;Com Perda
+47;Guarda-Roupa Casal;Móveis;Casa;41;13/05/2025;47;10;R$ 11.850,00;R$ 9.361,50;R$ 2.488,50;Norte;Marcos;Devolução;R$ 112,00;Com Perda
+29;Webcam HD Logitech;Acessórios;Informática;92;17/06/2019;29;3;R$ 7.950,00;R$ 5.167,50;R$ 2.782,50;Nordeste;Carlos;Cancelamento;R$ 104,00;Com Perda
+16;Smart TV Philips 50;TVs;Eletrônicos;16;10/03/2024;16;7;R$ 7.238,00;R$ 5.573,26;R$ 1.664,74;Centro-Oeste;André;Desconto;R$ 394,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;26;24/07/2015;58;8;R$ 22.120,00;R$ 15.262,80;R$ 6.857,20;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;4;16/12/2022;49;9;R$ 14.778,00;R$ 10.640,16;R$ 4.137,84;Sudeste;Ana;Cancelamento;R$ 348,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;39;02/12/2015;23;10;R$ 18.920,00;R$ 12.298,00;R$ 6.622,00;Nordeste;Carlos;Devolução;R$ 324,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;58;08/06/2016;22;9;R$ 26.919,00;R$ 13.459,50;R$ 13.459,50;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+66;Creme Facial;Beleza;Beleza;63;08/09/2018;66;2;R$ 6.828,00;R$ 5.257,56;R$ 1.570,44;Nordeste;Fernanda;Devolução;R$ 437,00;Com Perda
+68;Shampoo;Beleza;Beleza;66;24/07/2016;68;3;R$ 5.886,00;R$ 4.649,94;R$ 1.236,06;Sudeste;João;Devolução;R$ 347,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;67;25/08/2025;93;5;R$ 20.940,00;R$ 13.611,00;R$ 7.329,00;Centro-Oeste;Carla;Cancelamento;R$ 368,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;22;20/06/2023;14;5;R$ 16.145,00;R$ 11.140,05;R$ 5.004,95;Nordeste;Fernanda;Devolução;R$ 454,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;93;12/04/2019;94;6;R$ 7.014,00;R$ 3.787,56;R$ 3.226,44;Norte;Marcos;Cancelamento;R$ 482,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;83;16/06/2015;58;5;R$ 4.915,00;R$ 2.850,70;R$ 2.064,30;Nordeste;Carlos;Devolução;R$ 159,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;61;23/02/2018;77;9;R$ 19.521,00;R$ 15.031,17;R$ 4.489,83;Nordeste;Carlos;Devolução;R$ 498,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;71;23/08/2015;44;3;R$ 10.965,00;R$ 6.250,05;R$ 4.714,95;Sul;Bruno;Devolução;R$ 77,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;69;13/10/2025;12;3;R$ 14.403,00;R$ 7.633,59;R$ 6.769,41;Sudeste;Ana;Desconto;R$ 198,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;24;14/06/2023;57;2;R$ 2.252,00;R$ 1.126,00;R$ 1.126,00;Sul;Maria;Cancelamento;R$ 465,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;19;25/08/2025;22;8;R$ 9.888,00;R$ 6.328,32;R$ 3.559,68;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;10;24/01/2023;33;1;R$ 3.040,00;R$ 1.611,20;R$ 1.428,80;Centro-Oeste;André;Cancelamento;R$ 197,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;94;27/04/2024;51;5;R$ 3.655,00;R$ 2.339,20;R$ 1.315,80;Norte;Juliana;Desconto;R$ 160,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;99;25/07/2020;74;3;R$ 3.168,00;R$ 2.249,28;R$ 918,72;Nordeste;Fernanda;Desconto;R$ 251,00;Com Perda
+66;Creme Facial;Beleza;Beleza;62;25/11/2015;66;7;R$ 1.771,00;R$ 1.381,38;R$ 389,62;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;54;02/06/2024;18;3;R$ 1.011,00;R$ 738,03;R$ 272,97;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;83;09/07/2017;28;7;R$ 8.603,00;R$ 4.559,59;R$ 4.043,41;Centro-Oeste;André;Desconto;R$ 227,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;69;06/05/2016;53;6;R$ 12.540,00;R$ 7.774,80;R$ 4.765,20;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+95;Switch de Rede;Informática;Informática;83;01/06/2022;95;9;R$ 40.455,00;R$ 32.364,00;R$ 8.091,00;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;94;11/05/2025;55;5;R$ 23.200,00;R$ 15.312,00;R$ 7.888,00;Sul;Bruno;Cancelamento;R$ 247,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;78;24/10/2023;61;7;R$ 11.361,00;R$ 7.498,26;R$ 3.862,74;Sudeste;João;Cancelamento;R$ 387,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;39;10/10/2015;30;5;R$ 860,00;R$ 559,00;R$ 301,00;Sudeste;Pedro;Desconto;R$ 477,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;5;10/04/2025;28;7;R$ 3.913,00;R$ 1.995,63;R$ 1.917,37;Sul;Bruno;Cancelamento;R$ 240,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;8;19/03/2025;51;6;R$ 17.736,00;R$ 11.705,76;R$ 6.030,24;Centro-Oeste;Carla;Desconto;R$ 217,00;Com Perda
+59;Camiseta Básica;Roupas;Roupas;74;01/02/2022;59;6;R$ 23.730,00;R$ 17.797,50;R$ 5.932,50;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+88;Estojo Escolar;Papelaria;Papelaria;81;04/06/2018;88;2;R$ 3.470,00;R$ 2.012,60;R$ 1.457,40;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;20;21/03/2020;51;5;R$ 5.940,00;R$ 3.623,40;R$ 2.316,60;Norte;Marcos;Desconto;R$ 106,00;Com Perda
+92;Monitor LG 24;Informática;Informática;42;25/11/2024;92;5;R$ 14.330,00;R$ 7.881,50;R$ 6.448,50;Nordeste;Carlos;Cancelamento;R$ 295,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;8;06/03/2017;6;2;R$ 2.036,00;R$ 1.241,96;R$ 794,04;Centro-Oeste;Carla;Cancelamento;R$ 384,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;72;22/07/2016;100;9;R$ 42.813,00;R$ 32.537,88;R$ 10.275,12;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;61;24/10/2021;74;8;R$ 16.640,00;R$ 11.148,80;R$ 5.491,20;Sul;Lucas;Devolução;R$ 73,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;34;17/11/2020;26;4;R$ 19.816,00;R$ 12.880,40;R$ 6.935,60;Norte;Marcos;Cancelamento;R$ 102,00;Com Perda
+59;Camiseta Básica;Roupas;Roupas;50;25/02/2022;59;10;R$ 46.430,00;R$ 34.822,50;R$ 11.607,50;Norte;Marcos;Devolução;R$ 298,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;98;12/02/2021;87;2;R$ 7.992,00;R$ 4.475,52;R$ 3.516,48;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;44;10/03/2023;31;5;R$ 1.630,00;R$ 1.222,50;R$ 407,50;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;15;16/07/2016;17;6;R$ 26.442,00;R$ 14.014,26;R$ 12.427,74;Sudeste;João;Cancelamento;R$ 442,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;74;22/12/2024;25;8;R$ 23.696,00;R$ 18.719,84;R$ 4.976,16;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+90;Impressora Epson;Informática;Informática;46;27/05/2025;90;1;R$ 2.100,00;R$ 1.134,00;R$ 966,00;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;92;04/11/2017;2;7;R$ 26.432,00;R$ 15.859,20;R$ 10.572,80;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;91;02/04/2015;93;1;R$ 2.405,00;R$ 1.875,90;R$ 529,10;Norte;Paula;Cancelamento;R$ 67,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;43;25/01/2015;19;7;R$ 13.979,00;R$ 9.226,14;R$ 4.752,86;Centro-Oeste;Diego;Desconto;R$ 428,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;100;19/10/2016;45;3;R$ 7.164,00;R$ 3.868,56;R$ 3.295,44;Norte;Paula;Cancelamento;R$ 209,00;Com Perda
+76;Bicicleta Ergométrica;Esportes;Esportes;54;26/01/2015;76;5;R$ 2.770,00;R$ 1.523,50;R$ 1.246,50;Norte;Paula;Devolução;R$ 69,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;38;06/09/2022;44;1;R$ 2.289,00;R$ 1.602,30;R$ 686,70;Norte;Marcos;Cancelamento;R$ 285,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;83;04/05/2024;77;6;R$ 27.984,00;R$ 22.107,36;R$ 5.876,64;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+66;Creme Facial;Beleza;Beleza;36;16/10/2019;66;5;R$ 6.660,00;R$ 5.328,00;R$ 1.332,00;Sul;Bruno;Desconto;R$ 339,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;33;08/01/2019;25;9;R$ 2.187,00;R$ 1.290,33;R$ 896,67;Nordeste;Carlos;Cancelamento;R$ 140,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;29;09/03/2019;74;6;R$ 10.230,00;R$ 7.161,00;R$ 3.069,00;Norte;Juliana;Desconto;R$ 122,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;73;13/05/2018;33;2;R$ 9.698,00;R$ 5.236,92;R$ 4.461,08;Sul;Maria;Devolução;R$ 355,00;Com Perda
+91;Scanner Epson;Informática;Informática;87;22/02/2022;91;5;R$ 14.370,00;R$ 8.765,70;R$ 5.604,30;Centro-Oeste;Carla;Cancelamento;R$ 218,00;Com Perda
+90;Impressora Epson;Informática;Informática;15;12/09/2017;90;2;R$ 5.456,00;R$ 3.928,32;R$ 1.527,68;Nordeste;Fernanda;Desconto;R$ 128,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;8;11/06/2016;81;1;R$ 1.750,00;R$ 927,50;R$ 822,50;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+4;Samsung Galaxy S21;Smartphones;Eletrônicos;64;26/04/2020;4;1;R$ 1.444,00;R$ 1.025,24;R$ 418,76;Sudeste;Pedro;Desconto;R$ 115,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;13;14/08/2021;71;10;R$ 19.120,00;R$ 10.707,20;R$ 8.412,80;Centro-Oeste;Carla;Cancelamento;R$ 371,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;87;16/09/2020;60;8;R$ 25.840,00;R$ 13.178,40;R$ 12.661,60;Sudeste;João;Cancelamento;R$ 283,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;13;18/03/2016;9;8;R$ 31.448,00;R$ 18.554,32;R$ 12.893,68;Sul;Lucas;Cancelamento;R$ 418,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;67;25/01/2023;70;2;R$ 5.844,00;R$ 3.447,96;R$ 2.396,04;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;37;11/05/2017;36;6;R$ 15.612,00;R$ 10.460,04;R$ 5.151,96;Sul;Bruno;Desconto;R$ 467,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;23;16/07/2019;10;5;R$ 19.805,00;R$ 15.645,95;R$ 4.159,05;Sul;Lucas;Devolução;R$ 155,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;42;18/04/2024;82;10;R$ 31.780,00;R$ 19.703,60;R$ 12.076,40;Sudeste;João;Devolução;R$ 435,00;Com Perda
+73;Halter 5kg;Esportes;Esportes;9;25/12/2015;73;4;R$ 15.944,00;R$ 8.290,88;R$ 7.653,12;Centro-Oeste;Diego;Devolução;R$ 80,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;4;02/12/2015;94;6;R$ 11.076,00;R$ 7.974,72;R$ 3.101,28;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;37;16/11/2015;2;10;R$ 24.750,00;R$ 16.830,00;R$ 7.920,00;Sudeste;Ana;Desconto;R$ 369,00;Com Perda
+35;Microondas LG;Eletrodomésticos;Casa;34;02/04/2019;35;5;R$ 9.350,00;R$ 6.077,50;R$ 3.272,50;Centro-Oeste;André;Devolução;R$ 109,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;26;02/12/2017;15;6;R$ 16.536,00;R$ 10.417,68;R$ 6.118,32;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;16;20/08/2025;64;10;R$ 15.310,00;R$ 9.032,90;R$ 6.277,10;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;66;15/06/2021;20;3;R$ 5.469,00;R$ 4.375,20;R$ 1.093,80;Centro-Oeste;André;Desconto;R$ 140,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;68;22/10/2021;18;6;R$ 24.732,00;R$ 18.054,36;R$ 6.677,64;Sul;Bruno;Devolução;R$ 466,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;74;20/02/2020;14;3;R$ 8.463,00;R$ 4.316,13;R$ 4.146,87;Sul;Lucas;Desconto;R$ 271,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;17;12/02/2017;45;9;R$ 16.110,00;R$ 9.343,80;R$ 6.766,20;Nordeste;Carlos;Devolução;R$ 181,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;6;12/10/2023;96;9;R$ 1.737,00;R$ 1.181,16;R$ 555,84;Sul;Lucas;Devolução;R$ 151,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;6;17/11/2024;100;2;R$ 568,00;R$ 369,20;R$ 198,80;Centro-Oeste;Diego;Cancelamento;R$ 408,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;75;03/08/2025;33;9;R$ 15.804,00;R$ 9.956,52;R$ 5.847,48;Norte;Paula;Desconto;R$ 271,00;Com Perda
+66;Creme Facial;Beleza;Beleza;58;17/06/2020;66;6;R$ 27.432,00;R$ 16.184,88;R$ 11.247,12;Sul;Bruno;Cancelamento;R$ 429,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;24;17/09/2023;45;6;R$ 20.262,00;R$ 11.751,96;R$ 8.510,04;Norte;Marcos;Devolução;R$ 367,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;100;17/02/2023;72;6;R$ 25.998,00;R$ 20.018,46;R$ 5.979,54;Sudeste;João;Desconto;R$ 402,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;66;27/05/2025;11;1;R$ 2.865,00;R$ 2.292,00;R$ 573,00;Sul;Lucas;Desconto;R$ 242,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;13;14/12/2021;10;9;R$ 8.478,00;R$ 5.849,82;R$ 2.628,18;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;9;03/12/2019;48;4;R$ 1.068,00;R$ 566,04;R$ 501,96;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;92;19/06/2018;5;3;R$ 12.696,00;R$ 6.982,80;R$ 5.713,20;Centro-Oeste;Diego;Desconto;R$ 298,00;Com Perda
+66;Creme Facial;Beleza;Beleza;61;25/12/2024;66;6;R$ 3.066,00;R$ 2.238,18;R$ 827,82;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;61;10/09/2016;54;8;R$ 4.904,00;R$ 2.893,36;R$ 2.010,64;Sudeste;João;Cancelamento;R$ 227,00;Com Perda
+16;Smart TV Philips 50;TVs;Eletrônicos;3;14/12/2016;16;9;R$ 23.652,00;R$ 12.299,04;R$ 11.352,96;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+97;SSD 500GB;Informática;Informática;70;05/07/2022;97;3;R$ 5.142,00;R$ 2.673,84;R$ 2.468,16;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;70;07/05/2021;41;1;R$ 3.975,00;R$ 2.782,50;R$ 1.192,50;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;68;08/03/2021;30;10;R$ 6.090,00;R$ 3.349,50;R$ 2.740,50;Norte;Marcos;Cancelamento;R$ 79,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;70;07/11/2025;56;8;R$ 8.952,00;R$ 6.893,04;R$ 2.058,96;Sul;Bruno;Desconto;R$ 168,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;91;05/11/2021;5;6;R$ 27.942,00;R$ 19.279,98;R$ 8.662,02;Sul;Maria;Cancelamento;R$ 478,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;47;22/02/2017;14;8;R$ 24.600,00;R$ 19.434,00;R$ 5.166,00;Sudeste;João;Devolução;R$ 126,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;52;15/01/2020;14;4;R$ 15.792,00;R$ 12.475,68;R$ 3.316,32;Nordeste;Fernanda;Devolução;R$ 298,00;Com Perda
+21;MacBook Air;Notebooks;Informática;25;28/04/2025;21;2;R$ 7.896,00;R$ 4.895,52;R$ 3.000,48;Sudeste;Ana;Devolução;R$ 255,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;42;07/06/2022;40;3;R$ 1.869,00;R$ 1.401,75;R$ 467,25;Sul;Maria;Desconto;R$ 234,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;67;21/12/2021;30;7;R$ 11.865,00;R$ 8.780,10;R$ 3.084,90;Sul;Maria;Desconto;R$ 224,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;2;04/07/2022;31;10;R$ 15.820,00;R$ 8.068,20;R$ 7.751,80;Centro-Oeste;Diego;Desconto;R$ 326,00;Com Perda
+73;Halter 5kg;Esportes;Esportes;94;23/07/2015;73;10;R$ 13.870,00;R$ 10.679,90;R$ 3.190,10;Norte;Paula;Cancelamento;R$ 355,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;92;16/11/2024;5;1;R$ 719,00;R$ 373,88;R$ 345,12;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;25;19/02/2020;5;7;R$ 11.116,00;R$ 6.780,76;R$ 4.335,24;Sul;Maria;Devolução;R$ 350,00;Com Perda
+50;Cama Box Solteiro;Móveis;Casa;3;19/05/2022;50;1;R$ 3.299,00;R$ 1.913,42;R$ 1.385,58;Norte;Marcos;Devolução;R$ 291,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;26;18/02/2019;81;8;R$ 14.408,00;R$ 9.077,04;R$ 5.330,96;Norte;Juliana;Desconto;R$ 469,00;Com Perda
+47;Guarda-Roupa Casal;Móveis;Casa;12;03/12/2022;47;7;R$ 17.451,00;R$ 11.517,66;R$ 5.933,34;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+24;Mouse Gamer Redragon;Acessórios;Informática;48;10/01/2016;24;4;R$ 11.036,00;R$ 8.718,44;R$ 2.317,56;Nordeste;Fernanda;Desconto;R$ 265,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;2;23/06/2025;72;8;R$ 38.440,00;R$ 30.752,00;R$ 7.688,00;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;96;01/04/2021;30;3;R$ 3.435,00;R$ 2.748,00;R$ 687,00;Centro-Oeste;André;Desconto;R$ 411,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;30;25/04/2025;7;5;R$ 10.970,00;R$ 7.569,30;R$ 3.400,70;Centro-Oeste;Carla;Desconto;R$ 188,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;36;25/01/2025;78;4;R$ 17.648,00;R$ 11.647,68;R$ 6.000,32;Centro-Oeste;André;Cancelamento;R$ 286,00;Com Perda
+73;Halter 5kg;Esportes;Esportes;34;22/10/2022;73;1;R$ 390,00;R$ 273,00;R$ 117,00;Sudeste;João;Cancelamento;R$ 484,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;9;15/11/2024;85;3;R$ 13.860,00;R$ 11.088,00;R$ 2.772,00;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;88;05/04/2023;23;10;R$ 37.540,00;R$ 26.653,40;R$ 10.886,60;Nordeste;Carlos;Desconto;R$ 214,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;22;23/08/2023;8;9;R$ 31.815,00;R$ 25.133,85;R$ 6.681,15;Sudeste;Pedro;Cancelamento;R$ 293,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;39;10/02/2016;60;5;R$ 17.965,00;R$ 10.419,70;R$ 7.545,30;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;55;04/03/2024;36;4;R$ 7.936,00;R$ 4.126,72;R$ 3.809,28;Norte;Paula;Cancelamento;R$ 125,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;37;06/02/2021;10;3;R$ 8.325,00;R$ 5.161,50;R$ 3.163,50;Centro-Oeste;André;Cancelamento;R$ 247,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;39;25/04/2015;71;1;R$ 927,00;R$ 741,60;R$ 185,40;Nordeste;Rafael;Devolução;R$ 381,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;33;13/08/2015;33;9;R$ 32.337,00;R$ 18.432,09;R$ 13.904,91;Centro-Oeste;Diego;Cancelamento;R$ 130,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;100;08/09/2021;15;5;R$ 8.540,00;R$ 5.124,00;R$ 3.416,00;Centro-Oeste;Diego;Desconto;R$ 111,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;66;16/10/2017;60;4;R$ 15.704,00;R$ 8.951,28;R$ 6.752,72;Norte;Marcos;Desconto;R$ 209,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;21;15/12/2017;9;9;R$ 38.421,00;R$ 20.747,34;R$ 17.673,66;Sul;Maria;Devolução;R$ 180,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;18;09/01/2017;45;6;R$ 19.932,00;R$ 15.347,64;R$ 4.584,36;Centro-Oeste;Diego;Devolução;R$ 228,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;83;01/01/2021;5;5;R$ 4.245,00;R$ 3.268,65;R$ 976,35;Centro-Oeste;Carla;Desconto;R$ 357,00;Com Perda
+66;Creme Facial;Beleza;Beleza;57;19/10/2021;66;3;R$ 9.663,00;R$ 6.280,95;R$ 3.382,05;Sudeste;João;Desconto;R$ 372,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;11;06/03/2020;20;8;R$ 36.040,00;R$ 28.832,00;R$ 7.208,00;Norte;Marcos;Cancelamento;R$ 160,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;89;17/09/2021;10;9;R$ 33.759,00;R$ 26.669,61;R$ 7.089,39;Sudeste;Ana;Cancelamento;R$ 390,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;43;28/02/2020;65;10;R$ 2.920,00;R$ 1.927,20;R$ 992,80;Nordeste;Rafael;Desconto;R$ 354,00;Com Perda
+68;Shampoo;Beleza;Beleza;7;19/06/2025;68;8;R$ 14.520,00;R$ 10.599,60;R$ 3.920,40;Nordeste;Rafael;Cancelamento;R$ 303,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;51;22/10/2015;25;3;R$ 2.778,00;R$ 2.083,50;R$ 694,50;Centro-Oeste;Carla;Desconto;R$ 171,00;Com Perda
+63;Vestido Social;Roupas;Roupas;13;15/08/2021;63;6;R$ 12.984,00;R$ 7.011,36;R$ 5.972,64;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;13;25/03/2021;17;1;R$ 2.389,00;R$ 1.481,18;R$ 907,82;Centro-Oeste;Carla;Cancelamento;R$ 317,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;26;05/10/2015;99;3;R$ 12.123,00;R$ 8.486,10;R$ 3.636,90;Centro-Oeste;André;Cancelamento;R$ 100,00;Com Perda
+89;Impressora HP;Informática;Informática;95;12/01/2015;89;8;R$ 12.504,00;R$ 8.627,76;R$ 3.876,24;Centro-Oeste;André;Devolução;R$ 340,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;69;14/04/2021;49;5;R$ 7.510,00;R$ 4.956,60;R$ 2.553,40;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;55;02/07/2025;56;5;R$ 6.595,00;R$ 5.078,15;R$ 1.516,85;Norte;Paula;Desconto;R$ 378,00;Com Perda
+79;Pneu Aro 17;Automotivo;Automotivo;99;22/10/2016;79;2;R$ 8.690,00;R$ 4.431,90;R$ 4.258,10;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;70;15/02/2023;2;5;R$ 18.375,00;R$ 10.290,00;R$ 8.085,00;Norte;Paula;Desconto;R$ 203,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;24;04/04/2018;48;8;R$ 7.864,00;R$ 6.212,56;R$ 1.651,44;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+42;Sofá 2 Lugares;Móveis;Casa;14;16/09/2020;42;9;R$ 1.557,00;R$ 856,35;R$ 700,65;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;90;16/04/2017;77;1;R$ 1.168,00;R$ 817,60;R$ 350,40;Sudeste;Pedro;Cancelamento;R$ 242,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;8;27/06/2023;75;8;R$ 12.784,00;R$ 9.332,32;R$ 3.451,68;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+86;Lápis HB;Papelaria;Papelaria;64;09/05/2020;86;9;R$ 37.323,00;R$ 22.020,57;R$ 15.302,43;Norte;Paula;Devolução;R$ 111,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;9;04/04/2016;3;8;R$ 21.600,00;R$ 11.664,00;R$ 9.936,00;Nordeste;Fernanda;Devolução;R$ 231,00;Com Perda
+89;Impressora HP;Informática;Informática;89;20/12/2016;89;10;R$ 17.570,00;R$ 13.001,80;R$ 4.568,20;Norte;Paula;Desconto;R$ 302,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;93;07/08/2022;94;2;R$ 8.164,00;R$ 4.245,28;R$ 3.918,72;Sul;Lucas;Cancelamento;R$ 312,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;63;26/12/2016;54;10;R$ 31.220,00;R$ 17.171,00;R$ 14.049,00;Centro-Oeste;André;Cancelamento;R$ 73,00;Com Perda
+90;Impressora Epson;Informática;Informática;11;04/04/2017;90;4;R$ 1.296,00;R$ 972,00;R$ 324,00;Nordeste;Carlos;Devolução;R$ 149,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;78;21/01/2017;96;5;R$ 20.355,00;R$ 14.044,95;R$ 6.310,05;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+37;Air Fryer Philips;Eletrodomésticos;Casa;4;10/07/2015;37;8;R$ 2.704,00;R$ 1.703,52;R$ 1.000,48;Nordeste;Fernanda;Desconto;R$ 260,00;Com Perda
+86;Lápis HB;Papelaria;Papelaria;71;08/12/2022;86;1;R$ 1.171,00;R$ 737,73;R$ 433,27;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;30;22/09/2019;54;1;R$ 1.441,00;R$ 821,37;R$ 619,63;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;12;02/01/2015;5;7;R$ 34.664,00;R$ 27.731,20;R$ 6.932,80;Centro-Oeste;André;Devolução;R$ 318,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;84;09/10/2018;23;4;R$ 8.860,00;R$ 4.784,40;R$ 4.075,60;Sudeste;João;Desconto;R$ 251,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;78;09/07/2016;41;6;R$ 10.998,00;R$ 7.368,66;R$ 3.629,34;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;48;05/08/2015;46;7;R$ 7.364,00;R$ 5.007,52;R$ 2.356,48;Nordeste;Rafael;Desconto;R$ 489,00;Com Perda
+35;Microondas LG;Eletrodomésticos;Casa;50;09/05/2016;35;8;R$ 33.280,00;R$ 22.297,60;R$ 10.982,40;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;77;01/06/2021;70;4;R$ 2.492,00;R$ 1.918,84;R$ 573,16;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;1;04/04/2022;41;8;R$ 15.488,00;R$ 9.447,68;R$ 6.040,32;Norte;Marcos;Desconto;R$ 203,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;60;10/12/2018;72;3;R$ 5.946,00;R$ 4.578,42;R$ 1.367,58;Nordeste;Fernanda;Desconto;R$ 352,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;57;02/05/2023;39;10;R$ 48.480,00;R$ 24.724,80;R$ 23.755,20;Sul;Bruno;Desconto;R$ 218,00;Com Perda
+92;Monitor LG 24;Informática;Informática;71;23/01/2025;92;6;R$ 22.326,00;R$ 14.958,42;R$ 7.367,58;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;98;27/08/2015;99;7;R$ 24.738,00;R$ 12.616,38;R$ 12.121,62;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;74;04/12/2020;64;5;R$ 2.090,00;R$ 1.651,10;R$ 438,90;Sudeste;João;Cancelamento;R$ 64,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;16;11/04/2025;77;7;R$ 29.204,00;R$ 14.894,04;R$ 14.309,96;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;80;19/02/2016;75;6;R$ 16.446,00;R$ 8.387,46;R$ 8.058,54;Centro-Oeste;André;Devolução;R$ 225,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;92;16/02/2024;65;1;R$ 2.029,00;R$ 1.278,27;R$ 750,73;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+68;Shampoo;Beleza;Beleza;92;21/06/2024;68;7;R$ 4.697,00;R$ 3.287,90;R$ 1.409,10;Centro-Oeste;Carla;Desconto;R$ 307,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;81;28/12/2021;14;3;R$ 3.594,00;R$ 2.479,86;R$ 1.114,14;Sul;Bruno;Cancelamento;R$ 264,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;14;03/02/2016;54;7;R$ 34.692,00;R$ 18.039,84;R$ 16.652,16;Centro-Oeste;Carla;Cancelamento;R$ 367,00;Com Perda
+68;Shampoo;Beleza;Beleza;74;05/07/2016;68;4;R$ 784,00;R$ 572,32;R$ 211,68;Norte;Marcos;Desconto;R$ 171,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;100;20/02/2023;25;6;R$ 660,00;R$ 448,80;R$ 211,20;Centro-Oeste;Carla;Desconto;R$ 425,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;14;03/04/2017;82;6;R$ 26.268,00;R$ 17.336,88;R$ 8.931,12;Centro-Oeste;Diego;Devolução;R$ 247,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;13;23/09/2024;19;4;R$ 8.684,00;R$ 6.947,20;R$ 1.736,80;Nordeste;Rafael;Cancelamento;R$ 212,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;42;03/03/2018;93;2;R$ 7.236,00;R$ 4.558,68;R$ 2.677,32;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+67;Hidratante Corporal;Beleza;Beleza;84;24/03/2015;67;6;R$ 25.428,00;R$ 15.256,80;R$ 10.171,20;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;84;21/09/2023;15;9;R$ 31.203,00;R$ 17.161,65;R$ 14.041,35;Nordeste;Fernanda;Cancelamento;R$ 279,00;Com Perda
+59;Camiseta Básica;Roupas;Roupas;43;20/10/2016;59;5;R$ 9.320,00;R$ 5.964,80;R$ 3.355,20;Centro-Oeste;Carla;Desconto;R$ 244,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;71;27/09/2021;1;6;R$ 7.098,00;R$ 4.542,72;R$ 2.555,28;Sul;Maria;Cancelamento;R$ 375,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;43;15/01/2024;54;7;R$ 21.959,00;R$ 12.736,22;R$ 9.222,78;Sul;Maria;Devolução;R$ 96,00;Com Perda
+95;Switch de Rede;Informática;Informática;92;16/04/2019;95;6;R$ 16.566,00;R$ 8.779,98;R$ 7.786,02;Norte;Juliana;Desconto;R$ 273,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;42;09/07/2025;80;2;R$ 228,00;R$ 150,48;R$ 77,52;Sul;Maria;Desconto;R$ 297,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;52;04/07/2024;100;7;R$ 31.094,00;R$ 21.143,92;R$ 9.950,08;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;44;22/12/2017;10;10;R$ 46.770,00;R$ 31.803,60;R$ 14.966,40;Centro-Oeste;Carla;Devolução;R$ 360,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;10;20/02/2017;6;9;R$ 38.601,00;R$ 24.318,63;R$ 14.282,37;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;28;27/02/2017;7;7;R$ 23.814,00;R$ 19.051,20;R$ 4.762,80;Norte;Marcos;Cancelamento;R$ 461,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;56;12/04/2024;30;2;R$ 1.810,00;R$ 1.176,50;R$ 633,50;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;65;25/07/2015;56;2;R$ 8.366,00;R$ 6.023,52;R$ 2.342,48;Sudeste;Pedro;Desconto;R$ 115,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;43;16/04/2025;65;10;R$ 31.330,00;R$ 24.437,40;R$ 6.892,60;Sul;Maria;Devolução;R$ 255,00;Com Perda
+89;Impressora HP;Informática;Informática;80;16/08/2020;89;9;R$ 40.158,00;R$ 29.315,34;R$ 10.842,66;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;70;14/12/2017;23;6;R$ 26.148,00;R$ 17.780,64;R$ 8.367,36;Norte;Marcos;Desconto;R$ 430,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;72;01/01/2015;22;3;R$ 2.376,00;R$ 1.805,76;R$ 570,24;Norte;Marcos;Cancelamento;R$ 446,00;Com Perda
+73;Halter 5kg;Esportes;Esportes;25;15/05/2015;73;5;R$ 16.235,00;R$ 9.741,00;R$ 6.494,00;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;69;18/07/2020;14;3;R$ 1.737,00;R$ 1.198,53;R$ 538,47;Sul;Maria;Cancelamento;R$ 164,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;51;19/09/2018;53;8;R$ 29.360,00;R$ 19.377,60;R$ 9.982,40;Norte;Juliana;Devolução;R$ 102,00;Com Perda
+43;Sofá 3 Lugares;Móveis;Casa;57;13/02/2020;43;4;R$ 5.368,00;R$ 4.240,72;R$ 1.127,28;Sul;Bruno;Devolução;R$ 452,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;54;04/01/2025;36;1;R$ 1.155,00;R$ 877,80;R$ 277,20;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;24;27/04/2021;64;8;R$ 16.136,00;R$ 8.552,08;R$ 7.583,92;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;94;14/07/2023;19;1;R$ 4.754,00;R$ 2.804,86;R$ 1.949,14;Sul;Maria;Desconto;R$ 171,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;54;16/06/2022;33;3;R$ 300,00;R$ 198,00;R$ 102,00;Sul;Maria;Desconto;R$ 314,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;2;26/10/2020;75;8;R$ 23.072,00;R$ 14.073,92;R$ 8.998,08;Centro-Oeste;Diego;Cancelamento;R$ 165,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;98;28/02/2018;60;5;R$ 15.900,00;R$ 9.381,00;R$ 6.519,00;Sudeste;Ana;Cancelamento;R$ 454,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;13;27/09/2024;94;3;R$ 5.373,00;R$ 3.331,26;R$ 2.041,74;Norte;Juliana;Cancelamento;R$ 249,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;54;05/03/2016;27;10;R$ 15.600,00;R$ 12.168,00;R$ 3.432,00;Nordeste;Carlos;Desconto;R$ 364,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;87;21/04/2016;44;2;R$ 5.616,00;R$ 3.369,60;R$ 2.246,40;Nordeste;Rafael;Cancelamento;R$ 113,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;34;22/03/2025;11;2;R$ 9.318,00;R$ 5.590,80;R$ 3.727,20;Sul;Bruno;Devolução;R$ 292,00;Com Perda
+21;MacBook Air;Notebooks;Informática;11;12/07/2025;21;4;R$ 9.760,00;R$ 6.441,60;R$ 3.318,40;Nordeste;Rafael;Desconto;R$ 267,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;47;05/08/2015;31;3;R$ 12.327,00;R$ 8.012,55;R$ 4.314,45;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;37;16/10/2020;96;6;R$ 10.164,00;R$ 5.996,76;R$ 4.167,24;Norte;Juliana;Desconto;R$ 151,00;Com Perda
+66;Creme Facial;Beleza;Beleza;95;12/05/2024;66;2;R$ 8.050,00;R$ 4.025,00;R$ 4.025,00;Norte;Marcos;Cancelamento;R$ 143,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;45;19/10/2015;27;1;R$ 4.167,00;R$ 2.958,57;R$ 1.208,43;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;58;01/07/2021;60;10;R$ 19.410,00;R$ 13.587,00;R$ 5.823,00;Sul;Maria;Desconto;R$ 339,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;37;20/01/2019;33;7;R$ 13.384,00;R$ 7.361,20;R$ 6.022,80;Sudeste;Ana;Cancelamento;R$ 262,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;75;12/06/2019;25;7;R$ 5.565,00;R$ 4.396,35;R$ 1.168,65;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;48;16/07/2018;34;10;R$ 36.580,00;R$ 27.069,20;R$ 9.510,80;Sudeste;Ana;Cancelamento;R$ 133,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;76;09/10/2018;41;2;R$ 4.338,00;R$ 2.169,00;R$ 2.169,00;Norte;Juliana;Desconto;R$ 229,00;Com Perda
+62;Vestido Casual;Roupas;Roupas;91;04/12/2017;62;1;R$ 1.434,00;R$ 932,10;R$ 501,90;Norte;Juliana;Devolução;R$ 444,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;49;15/12/2024;31;3;R$ 2.430,00;R$ 1.652,40;R$ 777,60;Centro-Oeste;André;Desconto;R$ 79,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;21;10/08/2025;83;7;R$ 9.177,00;R$ 4.772,04;R$ 4.404,96;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+84;Caderno Espiral;Papelaria;Papelaria;83;09/03/2016;84;5;R$ 16.715,00;R$ 8.524,65;R$ 8.190,35;Centro-Oeste;Carla;Desconto;R$ 303,00;Com Perda
+73;Halter 5kg;Esportes;Esportes;88;08/11/2016;73;8;R$ 20.608,00;R$ 15.043,84;R$ 5.564,16;Centro-Oeste;Carla;Devolução;R$ 428,00;Com Perda
+91;Scanner Epson;Informática;Informática;95;14/02/2019;91;9;R$ 16.200,00;R$ 10.044,00;R$ 6.156,00;Sul;Bruno;Devolução;R$ 63,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;59;23/09/2016;81;2;R$ 7.612,00;R$ 4.795,56;R$ 2.816,44;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;13;09/05/2020;3;2;R$ 1.824,00;R$ 1.440,96;R$ 383,04;Norte;Juliana;Desconto;R$ 414,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;26;17/02/2018;33;9;R$ 11.988,00;R$ 6.833,16;R$ 5.154,84;Norte;Juliana;Devolução;R$ 225,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;90;02/02/2019;11;7;R$ 7.749,00;R$ 5.966,73;R$ 1.782,27;Sul;Lucas;Desconto;R$ 232,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;72;09/01/2018;19;4;R$ 2.908,00;R$ 1.686,64;R$ 1.221,36;Norte;Marcos;Desconto;R$ 250,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;92;19/08/2015;41;6;R$ 19.986,00;R$ 14.589,78;R$ 5.396,22;Sul;Lucas;Cancelamento;R$ 94,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;79;02/12/2021;100;4;R$ 12.804,00;R$ 7.938,48;R$ 4.865,52;Nordeste;Rafael;Devolução;R$ 124,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;53;05/12/2021;77;5;R$ 16.165,00;R$ 9.052,40;R$ 7.112,60;Centro-Oeste;Carla;Desconto;R$ 183,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;12;25/03/2015;71;8;R$ 29.768,00;R$ 20.242,24;R$ 9.525,76;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+92;Monitor LG 24;Informática;Informática;100;11/11/2025;92;8;R$ 31.192,00;R$ 22.146,32;R$ 9.045,68;Sudeste;João;Devolução;R$ 229,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;47;26/09/2024;30;10;R$ 12.020,00;R$ 7.933,20;R$ 4.086,80;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;7;03/01/2017;51;4;R$ 13.864,00;R$ 7.347,92;R$ 6.516,08;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;21;09/01/2017;22;7;R$ 7.553,00;R$ 5.211,57;R$ 2.341,43;Nordeste;Fernanda;Desconto;R$ 409,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;50;10/03/2016;56;6;R$ 3.636,00;R$ 2.763,36;R$ 872,64;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;52;13/12/2016;75;10;R$ 6.470,00;R$ 3.687,90;R$ 2.782,10;Sul;Bruno;Cancelamento;R$ 439,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;87;01/10/2018;15;3;R$ 13.668,00;R$ 10.524,36;R$ 3.143,64;Sudeste;João;Desconto;R$ 466,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;49;14/08/2021;74;10;R$ 48.180,00;R$ 34.207,80;R$ 13.972,20;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;14;20/06/2020;48;9;R$ 27.414,00;R$ 21.382,92;R$ 6.031,08;Sudeste;Ana;Desconto;R$ 453,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;70;11/08/2015;65;2;R$ 5.692,00;R$ 3.415,20;R$ 2.276,80;Nordeste;Carlos;Devolução;R$ 465,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;42;09/10/2025;80;4;R$ 18.928,00;R$ 14.006,72;R$ 4.921,28;Sudeste;Pedro;Devolução;R$ 138,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;86;03/03/2018;39;2;R$ 7.252,00;R$ 4.931,36;R$ 2.320,64;Sudeste;Pedro;Desconto;R$ 244,00;Com Perda
+37;Air Fryer Philips;Eletrodomésticos;Casa;27;22/01/2020;37;4;R$ 19.856,00;R$ 13.899,20;R$ 5.956,80;Centro-Oeste;Diego;Devolução;R$ 437,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;49;09/12/2017;22;7;R$ 18.795,00;R$ 13.720,35;R$ 5.074,65;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;36;12/02/2024;30;10;R$ 43.820,00;R$ 31.550,40;R$ 12.269,60;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+16;Smart TV Philips 50;TVs;Eletrônicos;74;18/10/2020;16;6;R$ 29.592,00;R$ 18.938,88;R$ 10.653,12;Sudeste;Ana;Desconto;R$ 146,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;17;11/05/2020;51;9;R$ 32.778,00;R$ 18.355,68;R$ 14.422,32;Norte;Paula;Desconto;R$ 408,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;12;26/08/2016;40;4;R$ 13.596,00;R$ 8.429,52;R$ 5.166,48;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;86;24/05/2022;28;7;R$ 32.774,00;R$ 24.580,50;R$ 8.193,50;Norte;Paula;Devolução;R$ 97,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;86;08/02/2023;39;3;R$ 6.945,00;R$ 5.139,30;R$ 1.805,70;Nordeste;Rafael;Desconto;R$ 241,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;83;27/09/2017;38;6;R$ 27.948,00;R$ 17.048,28;R$ 10.899,72;Nordeste;Fernanda;Desconto;R$ 126,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;28;08/02/2020;98;10;R$ 49.610,00;R$ 26.293,30;R$ 23.316,70;Centro-Oeste;André;Desconto;R$ 448,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;97;24/11/2017;57;9;R$ 22.554,00;R$ 17.592,12;R$ 4.961,88;Centro-Oeste;André;Cancelamento;R$ 109,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;17;12/10/2018;15;9;R$ 8.019,00;R$ 4.089,69;R$ 3.929,31;Nordeste;Rafael;Devolução;R$ 144,00;Com Perda
+95;Switch de Rede;Informática;Informática;3;05/11/2015;95;4;R$ 5.744,00;R$ 4.365,44;R$ 1.378,56;Sudeste;João;Devolução;R$ 440,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;96;20/07/2022;8;2;R$ 5.604,00;R$ 3.754,68;R$ 1.849,32;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;22;03/11/2021;81;8;R$ 15.536,00;R$ 12.118,08;R$ 3.417,92;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;79;15/09/2024;38;7;R$ 22.043,00;R$ 11.682,79;R$ 10.360,21;Norte;Juliana;Cancelamento;R$ 268,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;84;25/10/2022;6;1;R$ 3.057,00;R$ 2.323,32;R$ 733,68;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;16;07/02/2024;83;1;R$ 1.496,00;R$ 1.092,08;R$ 403,92;Norte;Juliana;Cancelamento;R$ 286,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;93;20/11/2021;54;4;R$ 6.008,00;R$ 4.626,16;R$ 1.381,84;Sudeste;João;Cancelamento;R$ 255,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;35;20/10/2015;81;10;R$ 43.860,00;R$ 28.509,00;R$ 15.351,00;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;60;05/10/2016;57;7;R$ 20.664,00;R$ 14.878,08;R$ 5.785,92;Centro-Oeste;Carla;Cancelamento;R$ 106,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;38;04/11/2017;14;9;R$ 11.709,00;R$ 8.547,57;R$ 3.161,43;Sudeste;João;Desconto;R$ 276,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;51;01/01/2025;8;2;R$ 4.000,00;R$ 2.480,00;R$ 1.520,00;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;59;03/03/2024;38;10;R$ 25.000,00;R$ 18.000,00;R$ 7.000,00;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+84;Caderno Espiral;Papelaria;Papelaria;58;06/12/2018;84;2;R$ 9.768,00;R$ 6.349,20;R$ 3.418,80;Sudeste;João;Desconto;R$ 128,00;Com Perda
+95;Switch de Rede;Informática;Informática;81;28/04/2016;95;9;R$ 38.808,00;R$ 22.120,56;R$ 16.687,44;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;38;24/08/2016;83;7;R$ 19.908,00;R$ 11.148,48;R$ 8.759,52;Sudeste;Ana;Devolução;R$ 198,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;91;21/07/2022;83;1;R$ 1.088,00;R$ 848,64;R$ 239,36;Sudeste;João;Cancelamento;R$ 355,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;54;27/05/2015;36;9;R$ 32.688,00;R$ 17.324,64;R$ 15.363,36;Centro-Oeste;Diego;Devolução;R$ 297,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;83;25/04/2018;12;7;R$ 8.372,00;R$ 6.697,60;R$ 1.674,40;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;29;02/05/2025;8;2;R$ 4.348,00;R$ 2.608,80;R$ 1.739,20;Sul;Bruno;Desconto;R$ 467,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;35;25/11/2017;77;7;R$ 714,00;R$ 492,66;R$ 221,34;Nordeste;Rafael;Cancelamento;R$ 287,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;16;15/11/2020;44;4;R$ 2.384,00;R$ 1.382,72;R$ 1.001,28;Centro-Oeste;Carla;Cancelamento;R$ 222,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;96;10/04/2021;19;6;R$ 18.882,00;R$ 14.727,96;R$ 4.154,04;Sudeste;João;Cancelamento;R$ 321,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;30;14/03/2019;31;6;R$ 18.366,00;R$ 11.019,60;R$ 7.346,40;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;38;12/08/2021;49;1;R$ 1.538,00;R$ 1.153,50;R$ 384,50;Norte;Juliana;Cancelamento;R$ 255,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;5;15/02/2017;15;7;R$ 34.965,00;R$ 22.377,60;R$ 12.587,40;Sul;Bruno;Desconto;R$ 496,00;Com Perda
+68;Shampoo;Beleza;Beleza;82;20/02/2023;68;9;R$ 17.631,00;R$ 13.752,18;R$ 3.878,82;Nordeste;Fernanda;Cancelamento;R$ 151,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;87;11/03/2023;57;5;R$ 3.980,00;R$ 2.945,20;R$ 1.034,80;Sul;Lucas;Desconto;R$ 370,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;53;27/04/2020;99;9;R$ 43.650,00;R$ 30.118,50;R$ 13.531,50;Centro-Oeste;André;Devolução;R$ 146,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;60;25/06/2020;61;2;R$ 2.052,00;R$ 1.518,48;R$ 533,52;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;61;14/11/2017;55;8;R$ 19.640,00;R$ 10.802,00;R$ 8.838,00;Norte;Marcos;Desconto;R$ 228,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;71;18/03/2015;36;8;R$ 17.200,00;R$ 10.148,00;R$ 7.052,00;Sul;Lucas;Devolução;R$ 209,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;8;11/11/2021;93;4;R$ 4.944,00;R$ 2.818,08;R$ 2.125,92;Sudeste;Pedro;Desconto;R$ 85,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;95;03/04/2020;8;5;R$ 16.270,00;R$ 8.135,00;R$ 8.135,00;Nordeste;Fernanda;Desconto;R$ 246,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;28;21/01/2021;56;9;R$ 6.858,00;R$ 4.046,22;R$ 2.811,78;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+21;MacBook Air;Notebooks;Informática;5;01/01/2018;21;7;R$ 7.938,00;R$ 5.239,08;R$ 2.698,92;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;11;27/08/2022;53;5;R$ 20.465,00;R$ 16.167,35;R$ 4.297,65;Sudeste;Ana;Desconto;R$ 473,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;8;14/08/2025;65;5;R$ 15.130,00;R$ 10.288,40;R$ 4.841,60;Norte;Paula;Cancelamento;R$ 179,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;68;13/05/2017;32;1;R$ 3.624,00;R$ 2.754,24;R$ 869,76;Sudeste;Ana;Cancelamento;R$ 216,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;23;01/11/2024;61;8;R$ 33.672,00;R$ 20.876,64;R$ 12.795,36;Nordeste;Carlos;Desconto;R$ 143,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;72;22/04/2023;33;6;R$ 8.088,00;R$ 5.418,96;R$ 2.669,04;Norte;Marcos;Devolução;R$ 334,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;42;03/11/2021;32;9;R$ 23.580,00;R$ 13.204,80;R$ 10.375,20;Norte;Juliana;Desconto;R$ 412,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;60;20/07/2020;18;1;R$ 107,00;R$ 58,85;R$ 48,15;Sudeste;João;Desconto;R$ 144,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;61;26/09/2016;81;1;R$ 2.130,00;R$ 1.256,70;R$ 873,30;Nordeste;Carlos;Desconto;R$ 334,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;79;18/11/2025;1;9;R$ 7.947,00;R$ 4.847,67;R$ 3.099,33;Norte;Juliana;Desconto;R$ 129,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;19;27/05/2021;6;1;R$ 850,00;R$ 663,00;R$ 187,00;Sul;Maria;Desconto;R$ 357,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;54;04/09/2016;9;2;R$ 2.876,00;R$ 2.013,20;R$ 862,80;Norte;Juliana;Devolução;R$ 171,00;Com Perda
+63;Vestido Social;Roupas;Roupas;25;18/01/2019;63;8;R$ 32.760,00;R$ 26.208,00;R$ 6.552,00;Nordeste;Rafael;Cancelamento;R$ 329,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;49;27/04/2017;26;6;R$ 11.562,00;R$ 7.515,30;R$ 4.046,70;Norte;Juliana;Cancelamento;R$ 73,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;90;06/07/2019;32;3;R$ 14.409,00;R$ 9.654,03;R$ 4.754,97;Norte;Juliana;Desconto;R$ 335,00;Com Perda
+59;Camiseta Básica;Roupas;Roupas;52;02/10/2025;59;7;R$ 22.190,00;R$ 13.314,00;R$ 8.876,00;Nordeste;Carlos;Cancelamento;R$ 447,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;14;15/08/2020;41;7;R$ 15.022,00;R$ 7.961,66;R$ 7.060,34;Sudeste;Pedro;Devolução;R$ 323,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;7;03/10/2021;31;6;R$ 18.606,00;R$ 12.093,90;R$ 6.512,10;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;59;14/01/2024;7;1;R$ 1.517,00;R$ 1.213,60;R$ 303,40;Sul;Lucas;Cancelamento;R$ 202,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;65;11/11/2025;30;7;R$ 7.721,00;R$ 3.860,50;R$ 3.860,50;Norte;Juliana;Devolução;R$ 487,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;31;21/02/2018;87;1;R$ 1.820,00;R$ 1.110,20;R$ 709,80;Sudeste;Pedro;Devolução;R$ 388,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;59;09/08/2016;32;1;R$ 3.452,00;R$ 2.416,40;R$ 1.035,60;Sudeste;Ana;Desconto;R$ 83,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;100;28/12/2016;44;6;R$ 26.820,00;R$ 19.042,20;R$ 7.777,80;Nordeste;Fernanda;Desconto;R$ 289,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;35;23/02/2017;70;9;R$ 25.740,00;R$ 14.929,20;R$ 10.810,80;Sul;Bruno;Devolução;R$ 247,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;75;28/03/2016;45;7;R$ 2.961,00;R$ 2.102,31;R$ 858,69;Nordeste;Rafael;Cancelamento;R$ 243,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;16;03/12/2025;6;5;R$ 10.195,00;R$ 7.748,20;R$ 2.446,80;Nordeste;Carlos;Devolução;R$ 320,00;Com Perda
+84;Caderno Espiral;Papelaria;Papelaria;35;07/02/2022;84;9;R$ 11.106,00;R$ 7.885,26;R$ 3.220,74;Nordeste;Carlos;Cancelamento;R$ 93,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;2;04/11/2017;1;8;R$ 34.144,00;R$ 25.949,44;R$ 8.194,56;Sul;Bruno;Cancelamento;R$ 479,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;8;06/01/2017;99;5;R$ 19.950,00;R$ 11.571,00;R$ 8.379,00;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;99;28/06/2015;25;7;R$ 26.264,00;R$ 17.334,24;R$ 8.929,76;Norte;Paula;Cancelamento;R$ 220,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;16;27/02/2017;49;1;R$ 1.636,00;R$ 1.063,40;R$ 572,60;Nordeste;Fernanda;Devolução;R$ 480,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;63;03/05/2022;94;6;R$ 6.030,00;R$ 4.582,80;R$ 1.447,20;Sudeste;João;Cancelamento;R$ 140,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;36;04/07/2024;41;7;R$ 31.899,00;R$ 18.501,42;R$ 13.397,58;Sudeste;Ana;Desconto;R$ 124,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;70;19/02/2022;72;4;R$ 18.880,00;R$ 10.950,40;R$ 7.929,60;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;56;11/11/2024;54;5;R$ 11.735,00;R$ 8.683,90;R$ 3.051,10;Sul;Lucas;Devolução;R$ 393,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;42;02/08/2020;38;9;R$ 1.899,00;R$ 1.101,42;R$ 797,58;Sul;Lucas;Cancelamento;R$ 176,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;72;26/09/2023;36;10;R$ 39.160,00;R$ 22.712,80;R$ 16.447,20;Sudeste;Pedro;Devolução;R$ 65,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;42;21/01/2023;99;10;R$ 16.920,00;R$ 10.828,80;R$ 6.091,20;Sul;Lucas;Devolução;R$ 144,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;97;03/11/2020;9;3;R$ 13.326,00;R$ 9.594,72;R$ 3.731,28;Sul;Maria;Cancelamento;R$ 326,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;36;05/10/2017;33;4;R$ 11.720,00;R$ 6.094,40;R$ 5.625,60;Centro-Oeste;Diego;Desconto;R$ 236,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;26;04/10/2024;61;4;R$ 13.692,00;R$ 8.078,28;R$ 5.613,72;Nordeste;Fernanda;Devolução;R$ 333,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;16;19/02/2023;49;5;R$ 14.475,00;R$ 11.145,75;R$ 3.329,25;Nordeste;Fernanda;Devolução;R$ 367,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;49;22/11/2016;49;1;R$ 2.392,00;R$ 1.650,48;R$ 741,52;Centro-Oeste;Carla;Devolução;R$ 374,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;38;05/07/2020;75;4;R$ 416,00;R$ 216,32;R$ 199,68;Sul;Lucas;Cancelamento;R$ 193,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;98;03/02/2017;93;8;R$ 5.480,00;R$ 3.342,80;R$ 2.137,20;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;51;10/02/2018;85;7;R$ 27.580,00;R$ 20.960,80;R$ 6.619,20;Norte;Paula;Cancelamento;R$ 472,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;81;19/03/2015;75;6;R$ 25.032,00;R$ 18.774,00;R$ 6.258,00;Sul;Maria;Devolução;R$ 67,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;34;22/09/2025;31;1;R$ 3.466,00;R$ 2.738,14;R$ 727,86;Norte;Paula;Desconto;R$ 483,00;Com Perda
+88;Estojo Escolar;Papelaria;Papelaria;54;02/01/2015;88;7;R$ 11.179,00;R$ 8.496,04;R$ 2.682,96;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;21;05/10/2022;57;3;R$ 14.976,00;R$ 9.734,40;R$ 5.241,60;Centro-Oeste;André;Desconto;R$ 471,00;Com Perda
+47;Guarda-Roupa Casal;Móveis;Casa;10;11/06/2017;47;6;R$ 28.074,00;R$ 16.844,40;R$ 11.229,60;Norte;Paula;Cancelamento;R$ 208,00;Com Perda
+97;SSD 500GB;Informática;Informática;93;19/05/2018;97;9;R$ 32.697,00;R$ 24.849,72;R$ 7.847,28;Sudeste;Ana;Cancelamento;R$ 320,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;99;01/09/2018;100;4;R$ 1.048,00;R$ 754,56;R$ 293,44;Centro-Oeste;André;Devolução;R$ 431,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;95;17/11/2024;8;10;R$ 14.410,00;R$ 9.510,60;R$ 4.899,40;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;12;27/02/2024;1;1;R$ 2.339,00;R$ 1.450,18;R$ 888,82;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;50;04/09/2019;78;8;R$ 5.616,00;R$ 4.043,52;R$ 1.572,48;Centro-Oeste;Carla;Cancelamento;R$ 194,00;Com Perda
+69;Condicionador;Beleza;Beleza;3;23/06/2025;69;4;R$ 7.200,00;R$ 5.184,00;R$ 2.016,00;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;7;01/08/2023;98;3;R$ 2.019,00;R$ 1.049,88;R$ 969,12;Centro-Oeste;Carla;Devolução;R$ 167,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;87;25/10/2019;56;9;R$ 7.038,00;R$ 5.137,74;R$ 1.900,26;Sudeste;Ana;Devolução;R$ 290,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;32;21/02/2016;44;1;R$ 1.937,00;R$ 1.317,16;R$ 619,84;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;18;07/05/2023;53;5;R$ 13.355,00;R$ 8.413,65;R$ 4.941,35;Sul;Maria;Desconto;R$ 278,00;Com Perda
+29;Webcam HD Logitech;Acessórios;Informática;12;02/11/2016;29;9;R$ 8.568,00;R$ 6.168,96;R$ 2.399,04;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+76;Bicicleta Ergométrica;Esportes;Esportes;76;28/05/2022;76;9;R$ 33.165,00;R$ 16.582,50;R$ 16.582,50;Sudeste;Pedro;Desconto;R$ 362,00;Com Perda
+50;Cama Box Solteiro;Móveis;Casa;28;06/10/2019;50;6;R$ 9.408,00;R$ 5.550,72;R$ 3.857,28;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+59;Camiseta Básica;Roupas;Roupas;16;24/10/2017;59;8;R$ 31.736,00;R$ 23.802,00;R$ 7.934,00;Nordeste;Fernanda;Desconto;R$ 491,00;Com Perda
+59;Camiseta Básica;Roupas;Roupas;7;20/05/2021;59;1;R$ 2.352,00;R$ 1.811,04;R$ 540,96;Sudeste;Pedro;Devolução;R$ 342,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;3;26/04/2015;71;8;R$ 29.056,00;R$ 18.595,84;R$ 10.460,16;Nordeste;Carlos;Desconto;R$ 113,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;54;22/07/2016;28;6;R$ 26.946,00;R$ 15.628,68;R$ 11.317,32;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;7;14/08/2015;34;1;R$ 1.170,00;R$ 655,20;R$ 514,80;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+88;Estojo Escolar;Papelaria;Papelaria;58;02/04/2016;88;1;R$ 4.105,00;R$ 2.996,65;R$ 1.108,35;Norte;Juliana;Devolução;R$ 304,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;79;11/07/2020;85;9;R$ 13.086,00;R$ 9.421,92;R$ 3.664,08;Centro-Oeste;André;Desconto;R$ 421,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;4;18/03/2024;40;9;R$ 17.541,00;R$ 12.804,93;R$ 4.736,07;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;20;24/03/2021;78;3;R$ 13.923,00;R$ 10.999,17;R$ 2.923,83;Centro-Oeste;Diego;Devolução;R$ 489,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;11;19/08/2022;5;2;R$ 766,00;R$ 428,96;R$ 337,04;Nordeste;Fernanda;Devolução;R$ 139,00;Com Perda
+91;Scanner Epson;Informática;Informática;97;15/03/2018;91;3;R$ 2.574,00;R$ 1.981,98;R$ 592,02;Sul;Maria;Desconto;R$ 308,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;61;09/10/2021;27;1;R$ 2.335,00;R$ 1.868,00;R$ 467,00;Sul;Bruno;Desconto;R$ 458,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;17;14/09/2019;71;1;R$ 2.341,00;R$ 1.545,06;R$ 795,94;Sudeste;Ana;Devolução;R$ 69,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;38;04/04/2021;98;5;R$ 7.220,00;R$ 5.703,80;R$ 1.516,20;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;67;03/11/2017;6;1;R$ 636,00;R$ 343,44;R$ 292,56;Sudeste;Pedro;Desconto;R$ 411,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;37;12/03/2020;64;8;R$ 2.304,00;R$ 1.290,24;R$ 1.013,76;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;36;23/04/2018;58;3;R$ 14.259,00;R$ 7.557,27;R$ 6.701,73;Sul;Maria;Cancelamento;R$ 342,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;62;01/09/2019;9;9;R$ 19.620,00;R$ 10.398,60;R$ 9.221,40;Norte;Juliana;Devolução;R$ 356,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;2;06/05/2019;3;1;R$ 2.223,00;R$ 1.711,71;R$ 511,29;Sudeste;Ana;Devolução;R$ 175,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;44;02/02/2019;56;7;R$ 12.327,00;R$ 8.628,90;R$ 3.698,10;Sudeste;Ana;Cancelamento;R$ 498,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;7;01/07/2025;15;3;R$ 10.674,00;R$ 6.190,92;R$ 4.483,08;Norte;Paula;Devolução;R$ 473,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;53;18/02/2017;87;9;R$ 21.132,00;R$ 16.905,60;R$ 4.226,40;Sudeste;Ana;Cancelamento;R$ 83,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;65;14/04/2019;7;4;R$ 2.516,00;R$ 1.811,52;R$ 704,48;Nordeste;Rafael;Cancelamento;R$ 299,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;51;25/09/2018;64;9;R$ 26.577,00;R$ 20.730,06;R$ 5.846,94;Sudeste;Ana;Devolução;R$ 80,00;Com Perda
+92;Monitor LG 24;Informática;Informática;13;15/10/2024;92;2;R$ 2.072,00;R$ 1.408,96;R$ 663,04;Sudeste;Ana;Desconto;R$ 377,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;41;05/05/2019;60;10;R$ 10.230,00;R$ 7.877,10;R$ 2.352,90;Norte;Marcos;Desconto;R$ 444,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;69;13/03/2022;41;9;R$ 9.621,00;R$ 6.927,12;R$ 2.693,88;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;22;21/04/2022;1;6;R$ 22.494,00;R$ 13.271,46;R$ 9.222,54;Norte;Paula;Devolução;R$ 56,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;4;28/04/2024;48;1;R$ 1.773,00;R$ 1.347,48;R$ 425,52;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;40;01/10/2021;26;1;R$ 4.599,00;R$ 2.483,46;R$ 2.115,54;Centro-Oeste;Diego;Cancelamento;R$ 216,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;9;18/02/2020;25;3;R$ 3.021,00;R$ 2.205,33;R$ 815,67;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;39;10/01/2017;39;1;R$ 983,00;R$ 747,08;R$ 235,92;Sudeste;Pedro;Desconto;R$ 338,00;Com Perda
+90;Impressora Epson;Informática;Informática;14;10/07/2024;90;2;R$ 1.820,00;R$ 1.201,20;R$ 618,80;Nordeste;Rafael;Devolução;R$ 206,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;19;01/02/2015;55;7;R$ 6.307,00;R$ 4.919,46;R$ 1.387,54;Sul;Lucas;Devolução;R$ 419,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;64;15/07/2016;71;1;R$ 944,00;R$ 708,00;R$ 236,00;Sudeste;João;Cancelamento;R$ 296,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;14;04/01/2021;53;4;R$ 8.888,00;R$ 6.666,00;R$ 2.222,00;Centro-Oeste;Diego;Devolução;R$ 238,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;45;27/11/2019;85;9;R$ 40.869,00;R$ 26.973,54;R$ 13.895,46;Centro-Oeste;André;Cancelamento;R$ 128,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;57;23/02/2025;34;9;R$ 4.779,00;R$ 2.676,24;R$ 2.102,76;Nordeste;Fernanda;Devolução;R$ 122,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;14;19/06/2020;12;8;R$ 34.336,00;R$ 23.348,48;R$ 10.987,52;Sudeste;Pedro;Devolução;R$ 408,00;Com Perda
+66;Creme Facial;Beleza;Beleza;56;08/10/2017;66;6;R$ 5.310,00;R$ 3.239,10;R$ 2.070,90;Norte;Marcos;Devolução;R$ 376,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;59;17/11/2019;87;4;R$ 4.044,00;R$ 2.224,20;R$ 1.819,80;Nordeste;Rafael;Cancelamento;R$ 418,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;15;12/04/2022;22;2;R$ 9.986,00;R$ 6.590,76;R$ 3.395,24;Norte;Paula;Cancelamento;R$ 127,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;42;06/09/2018;82;2;R$ 2.618,00;R$ 1.675,52;R$ 942,48;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;74;14/04/2016;52;3;R$ 13.605,00;R$ 10.884,00;R$ 2.721,00;Sudeste;Pedro;Desconto;R$ 342,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;22;28/02/2022;19;2;R$ 9.866,00;R$ 6.708,88;R$ 3.157,12;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;28;01/03/2019;72;2;R$ 3.022,00;R$ 2.296,72;R$ 725,28;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;75;20/06/2019;65;2;R$ 8.068,00;R$ 4.034,00;R$ 4.034,00;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;86;09/03/2024;17;2;R$ 3.020,00;R$ 2.234,80;R$ 785,20;Nordeste;Rafael;Desconto;R$ 341,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;23;23/04/2016;7;6;R$ 11.904,00;R$ 6.071,04;R$ 5.832,96;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;25;04/02/2021;54;1;R$ 2.518,00;R$ 1.485,62;R$ 1.032,38;Norte;Juliana;Desconto;R$ 485,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;46;12/08/2015;9;3;R$ 2.370,00;R$ 1.398,30;R$ 971,70;Sul;Bruno;Devolução;R$ 244,00;Com Perda
+97;SSD 500GB;Informática;Informática;85;18/04/2019;97;7;R$ 4.466,00;R$ 2.590,28;R$ 1.875,72;Nordeste;Fernanda;Devolução;R$ 313,00;Com Perda
+24;Mouse Gamer Redragon;Acessórios;Informática;80;13/02/2024;24;1;R$ 4.240,00;R$ 3.222,40;R$ 1.017,60;Sudeste;João;Cancelamento;R$ 382,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;49;12/04/2023;96;3;R$ 12.603,00;R$ 7.939,89;R$ 4.663,11;Sudeste;João;Desconto;R$ 465,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;95;05/06/2023;14;4;R$ 12.052,00;R$ 7.231,20;R$ 4.820,80;Centro-Oeste;Diego;Cancelamento;R$ 493,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;64;06/03/2015;60;3;R$ 7.875,00;R$ 5.118,75;R$ 2.756,25;Norte;Paula;Devolução;R$ 447,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;67;05/09/2025;61;4;R$ 7.612,00;R$ 4.034,36;R$ 3.577,64;Norte;Paula;Devolução;R$ 89,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;73;27/07/2015;75;1;R$ 4.722,00;R$ 2.361,00;R$ 2.361,00;Centro-Oeste;Carla;Devolução;R$ 110,00;Com Perda
+29;Webcam HD Logitech;Acessórios;Informática;47;01/11/2024;29;9;R$ 39.096,00;R$ 19.938,96;R$ 19.157,04;Centro-Oeste;Diego;Devolução;R$ 186,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;34;16/11/2019;75;2;R$ 1.740,00;R$ 1.096,20;R$ 643,80;Sudeste;Ana;Desconto;R$ 354,00;Com Perda
+89;Impressora HP;Informática;Informática;45;02/04/2015;89;2;R$ 382,00;R$ 271,22;R$ 110,78;Norte;Juliana;Desconto;R$ 175,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;42;08/06/2024;12;2;R$ 1.236,00;R$ 692,16;R$ 543,84;Centro-Oeste;Carla;Devolução;R$ 170,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;51;01/08/2022;1;10;R$ 27.340,00;R$ 14.763,60;R$ 12.576,40;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;72;16/04/2022;64;10;R$ 35.940,00;R$ 23.720,40;R$ 12.219,60;Nordeste;Fernanda;Devolução;R$ 239,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;55;01/06/2020;77;4;R$ 5.664,00;R$ 4.078,08;R$ 1.585,92;Norte;Marcos;Desconto;R$ 497,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;89;13/04/2015;53;3;R$ 1.890,00;R$ 1.417,50;R$ 472,50;Norte;Juliana;Desconto;R$ 52,00;Com Perda
+76;Bicicleta Ergométrica;Esportes;Esportes;31;20/08/2015;76;9;R$ 18.297,00;R$ 11.161,17;R$ 7.135,83;Sul;Bruno;Devolução;R$ 492,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;97;04/01/2020;80;3;R$ 7.653,00;R$ 5.816,28;R$ 1.836,72;Sudeste;Ana;Cancelamento;R$ 397,00;Com Perda
+84;Caderno Espiral;Papelaria;Papelaria;18;26/09/2024;84;9;R$ 9.495,00;R$ 7.216,20;R$ 2.278,80;Centro-Oeste;André;Cancelamento;R$ 294,00;Com Perda
+68;Shampoo;Beleza;Beleza;92;11/12/2025;68;5;R$ 16.665,00;R$ 10.832,25;R$ 5.832,75;Sul;Maria;Devolução;R$ 144,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;67;22/05/2021;98;4;R$ 4.036,00;R$ 2.704,12;R$ 1.331,88;Norte;Juliana;Devolução;R$ 381,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;27;09/05/2015;58;3;R$ 2.874,00;R$ 1.437,00;R$ 1.437,00;Sul;Bruno;Devolução;R$ 331,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;42;11/12/2021;87;8;R$ 28.128,00;R$ 15.470,40;R$ 12.657,60;Nordeste;Carlos;Cancelamento;R$ 312,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;88;27/09/2024;74;4;R$ 1.220,00;R$ 829,60;R$ 390,40;Sudeste;João;Cancelamento;R$ 402,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;44;09/05/2015;7;2;R$ 2.504,00;R$ 1.402,24;R$ 1.101,76;Nordeste;Rafael;Devolução;R$ 206,00;Com Perda
+90;Impressora Epson;Informática;Informática;13;24/10/2024;90;5;R$ 4.385,00;R$ 2.806,40;R$ 1.578,60;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;99;04/01/2018;33;4;R$ 16.908,00;R$ 8.454,00;R$ 8.454,00;Sudeste;Pedro;Devolução;R$ 259,00;Com Perda
+16;Smart TV Philips 50;TVs;Eletrônicos;4;18/01/2017;16;5;R$ 19.545,00;R$ 12.117,90;R$ 7.427,10;Norte;Paula;Devolução;R$ 417,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;98;03/04/2023;48;3;R$ 1.416,00;R$ 764,64;R$ 651,36;Centro-Oeste;André;Devolução;R$ 254,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;20;04/09/2025;2;4;R$ 5.988,00;R$ 2.994,00;R$ 2.994,00;Centro-Oeste;Diego;Desconto;R$ 66,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;25;27/10/2016;13;4;R$ 2.300,00;R$ 1.380,00;R$ 920,00;Nordeste;Rafael;Cancelamento;R$ 182,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;62;28/10/2018;12;3;R$ 4.272,00;R$ 2.605,92;R$ 1.666,08;Centro-Oeste;Carla;Devolução;R$ 135,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;6;06/02/2025;94;8;R$ 23.248,00;R$ 12.553,92;R$ 10.694,08;Nordeste;Fernanda;Cancelamento;R$ 149,00;Com Perda
+92;Monitor LG 24;Informática;Informática;90;14/10/2017;92;7;R$ 18.753,00;R$ 11.439,33;R$ 7.313,67;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;21;05/05/2020;57;2;R$ 7.506,00;R$ 5.629,50;R$ 1.876,50;Nordeste;Carlos;Devolução;R$ 80,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;35;28/06/2018;25;1;R$ 2.647,00;R$ 1.932,31;R$ 714,69;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;48;08/06/2018;70;3;R$ 1.671,00;R$ 852,21;R$ 818,79;Nordeste;Carlos;Cancelamento;R$ 475,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;31;12/11/2022;83;5;R$ 2.440,00;R$ 1.293,20;R$ 1.146,80;Sul;Maria;Desconto;R$ 470,00;Com Perda
+24;Mouse Gamer Redragon;Acessórios;Informática;19;17/09/2025;24;7;R$ 18.662,00;R$ 12.316,92;R$ 6.345,08;Norte;Paula;Desconto;R$ 407,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;81;03/08/2024;100;2;R$ 5.398,00;R$ 3.400,74;R$ 1.997,26;Centro-Oeste;André;Desconto;R$ 112,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;22;06/10/2019;46;6;R$ 10.344,00;R$ 7.964,88;R$ 2.379,12;Nordeste;Rafael;Desconto;R$ 98,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;57;13/09/2020;87;1;R$ 4.561,00;R$ 2.599,77;R$ 1.961,23;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;56;05/04/2015;44;9;R$ 33.228,00;R$ 26.250,12;R$ 6.977,88;Norte;Juliana;Desconto;R$ 63,00;Com Perda
+92;Monitor LG 24;Informática;Informática;16;19/11/2020;92;9;R$ 14.607,00;R$ 9.202,41;R$ 5.404,59;Nordeste;Carlos;Desconto;R$ 96,00;Com Perda
+79;Pneu Aro 17;Automotivo;Automotivo;67;03/12/2022;79;5;R$ 4.340,00;R$ 2.213,40;R$ 2.126,60;Norte;Paula;Desconto;R$ 157,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;65;13/10/2016;10;6;R$ 29.046,00;R$ 22.946,34;R$ 6.099,66;Sul;Lucas;Desconto;R$ 350,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;4;28/03/2022;40;6;R$ 27.612,00;R$ 14.358,24;R$ 13.253,76;Nordeste;Fernanda;Devolução;R$ 345,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;24;09/09/2021;1;10;R$ 26.350,00;R$ 20.553,00;R$ 5.797,00;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+47;Guarda-Roupa Casal;Móveis;Casa;59;16/01/2016;47;2;R$ 3.276,00;R$ 2.325,96;R$ 950,04;Norte;Paula;Cancelamento;R$ 248,00;Com Perda
+62;Vestido Casual;Roupas;Roupas;65;10/12/2017;62;4;R$ 5.412,00;R$ 4.113,12;R$ 1.298,88;Sudeste;Pedro;Cancelamento;R$ 216,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;73;13/03/2015;65;2;R$ 4.292,00;R$ 2.575,20;R$ 1.716,80;Nordeste;Fernanda;Desconto;R$ 428,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;60;09/05/2025;82;8;R$ 14.696,00;R$ 8.523,68;R$ 6.172,32;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;79;14/12/2021;18;1;R$ 3.900,00;R$ 2.574,00;R$ 1.326,00;Sudeste;Pedro;Cancelamento;R$ 347,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;2;24/03/2023;75;9;R$ 12.456,00;R$ 7.722,72;R$ 4.733,28;Sudeste;Pedro;Devolução;R$ 348,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;94;17/07/2022;15;9;R$ 32.841,00;R$ 22.003,47;R$ 10.837,53;Centro-Oeste;Carla;Desconto;R$ 224,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;78;07/03/2015;41;4;R$ 17.140,00;R$ 11.998,00;R$ 5.142,00;Centro-Oeste;Carla;Desconto;R$ 447,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;35;15/02/2015;1;6;R$ 27.648,00;R$ 16.865,28;R$ 10.782,72;Nordeste;Rafael;Desconto;R$ 317,00;Com Perda
+24;Mouse Gamer Redragon;Acessórios;Informática;67;11/06/2018;24;3;R$ 3.144,00;R$ 2.295,12;R$ 848,88;Centro-Oeste;Carla;Cancelamento;R$ 238,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;33;27/02/2020;52;8;R$ 16.672,00;R$ 8.836,16;R$ 7.835,84;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+84;Caderno Espiral;Papelaria;Papelaria;94;17/04/2022;84;1;R$ 3.752,00;R$ 2.176,16;R$ 1.575,84;Nordeste;Carlos;Cancelamento;R$ 222,00;Com Perda
+37;Air Fryer Philips;Eletrodomésticos;Casa;75;01/05/2015;37;3;R$ 4.998,00;R$ 3.298,68;R$ 1.699,32;Nordeste;Carlos;Desconto;R$ 427,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;1;07/05/2024;2;4;R$ 8.816,00;R$ 6.435,68;R$ 2.380,32;Centro-Oeste;André;Devolução;R$ 432,00;Com Perda
+63;Vestido Social;Roupas;Roupas;3;05/09/2015;63;7;R$ 3.178,00;R$ 2.129,26;R$ 1.048,74;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;33;20/08/2020;33;7;R$ 8.701,00;R$ 4.959,57;R$ 3.741,43;Centro-Oeste;André;Cancelamento;R$ 172,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;96;11/02/2015;33;9;R$ 29.088,00;R$ 21.234,24;R$ 7.853,76;Nordeste;Rafael;Desconto;R$ 224,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;16;18/12/2025;25;9;R$ 4.095,00;R$ 2.784,60;R$ 1.310,40;Sul;Maria;Cancelamento;R$ 107,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;56;25/08/2015;48;4;R$ 16.136,00;R$ 8.874,80;R$ 7.261,20;Sul;Maria;Cancelamento;R$ 165,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;10;02/10/2024;56;6;R$ 25.158,00;R$ 16.855,86;R$ 8.302,14;Norte;Juliana;Devolução;R$ 476,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;92;07/07/2022;49;7;R$ 9.828,00;R$ 5.405,40;R$ 4.422,60;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;10;26/05/2023;94;6;R$ 4.344,00;R$ 2.345,76;R$ 1.998,24;Sul;Maria;Devolução;R$ 250,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;44;14/04/2016;38;6;R$ 15.438,00;R$ 11.269,74;R$ 4.168,26;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;53;12/12/2023;58;8;R$ 12.640,00;R$ 7.710,40;R$ 4.929,60;Centro-Oeste;André;Devolução;R$ 425,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;61;07/07/2015;28;3;R$ 14.955,00;R$ 8.973,00;R$ 5.982,00;Sul;Maria;Desconto;R$ 487,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;95;15/08/2015;44;10;R$ 40.860,00;R$ 20.838,60;R$ 20.021,40;Norte;Paula;Cancelamento;R$ 201,00;Com Perda
+16;Smart TV Philips 50;TVs;Eletrônicos;60;17/06/2015;16;9;R$ 20.205,00;R$ 14.143,50;R$ 6.061,50;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;51;02/06/2020;39;3;R$ 13.863,00;R$ 10.258,62;R$ 3.604,38;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;87;25/02/2020;13;4;R$ 19.676,00;R$ 12.986,16;R$ 6.689,84;Norte;Paula;Devolução;R$ 334,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;39;16/06/2018;40;3;R$ 3.855,00;R$ 2.698,50;R$ 1.156,50;Sul;Maria;Desconto;R$ 180,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;7;23/11/2019;23;7;R$ 5.817,00;R$ 4.246,41;R$ 1.570,59;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;75;18/07/2018;96;5;R$ 14.055,00;R$ 7.589,70;R$ 6.465,30;Sul;Maria;Cancelamento;R$ 91,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;91;01/09/2017;32;3;R$ 13.668,00;R$ 10.114,32;R$ 3.553,68;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;91;02/10/2019;26;6;R$ 18.654,00;R$ 13.430,88;R$ 5.223,12;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;49;05/01/2015;8;5;R$ 5.175,00;R$ 3.726,00;R$ 1.449,00;Centro-Oeste;Carla;Cancelamento;R$ 280,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;6;07/04/2021;83;9;R$ 31.347,00;R$ 22.883,31;R$ 8.463,69;Sul;Bruno;Devolução;R$ 358,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;77;20/05/2019;64;6;R$ 19.524,00;R$ 12.300,12;R$ 7.223,88;Centro-Oeste;Carla;Desconto;R$ 388,00;Com Perda
+90;Impressora Epson;Informática;Informática;54;10/11/2021;90;6;R$ 4.320,00;R$ 2.505,60;R$ 1.814,40;Sudeste;João;Desconto;R$ 391,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;31;08/05/2017;31;3;R$ 1.557,00;R$ 809,64;R$ 747,36;Norte;Paula;Cancelamento;R$ 453,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;38;04/02/2023;94;2;R$ 6.954,00;R$ 4.241,94;R$ 2.712,06;Sul;Bruno;Cancelamento;R$ 122,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;67;20/05/2016;99;9;R$ 1.944,00;R$ 1.166,40;R$ 777,60;Sudeste;João;Devolução;R$ 476,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;35;06/07/2018;77;6;R$ 9.510,00;R$ 6.847,20;R$ 2.662,80;Centro-Oeste;Carla;Devolução;R$ 264,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;57;12/09/2015;54;1;R$ 3.804,00;R$ 2.016,12;R$ 1.787,88;Norte;Juliana;Cancelamento;R$ 278,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;24;25/05/2017;45;5;R$ 8.095,00;R$ 5.666,50;R$ 2.428,50;Norte;Marcos;Desconto;R$ 251,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;29;25/02/2023;38;9;R$ 32.643,00;R$ 20.238,66;R$ 12.404,34;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;71;13/11/2018;23;8;R$ 38.496,00;R$ 30.796,80;R$ 7.699,20;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;89;16/02/2025;23;8;R$ 6.488,00;R$ 3.957,68;R$ 2.530,32;Nordeste;Rafael;Desconto;R$ 172,00;Com Perda
+62;Vestido Casual;Roupas;Roupas;58;10/02/2020;62;9;R$ 8.586,00;R$ 4.894,02;R$ 3.691,98;Sudeste;João;Cancelamento;R$ 320,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;17;20/02/2020;60;6;R$ 4.686,00;R$ 2.717,88;R$ 1.968,12;Norte;Paula;Cancelamento;R$ 280,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;12;20/04/2022;57;4;R$ 14.512,00;R$ 10.738,88;R$ 3.773,12;Norte;Paula;Desconto;R$ 307,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;27;17/03/2022;33;10;R$ 31.890,00;R$ 19.452,90;R$ 12.437,10;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;97;20/07/2023;1;5;R$ 19.215,00;R$ 10.183,95;R$ 9.031,05;Centro-Oeste;André;Desconto;R$ 65,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;19;28/06/2025;77;4;R$ 10.064,00;R$ 7.749,28;R$ 2.314,72;Sul;Bruno;Devolução;R$ 357,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;76;15/05/2024;15;1;R$ 4.595,00;R$ 2.619,15;R$ 1.975,85;Centro-Oeste;André;Cancelamento;R$ 268,00;Com Perda
+67;Hidratante Corporal;Beleza;Beleza;26;16/12/2015;67;7;R$ 14.287,00;R$ 8.572,20;R$ 5.714,80;Nordeste;Fernanda;Devolução;R$ 132,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;6;08/12/2025;96;6;R$ 9.642,00;R$ 6.556,56;R$ 3.085,44;Sul;Bruno;Desconto;R$ 162,00;Com Perda
+90;Impressora Epson;Informática;Informática;23;17/07/2025;90;4;R$ 7.160,00;R$ 4.940,40;R$ 2.219,60;Sudeste;Ana;Devolução;R$ 304,00;Com Perda
+63;Vestido Social;Roupas;Roupas;44;25/02/2021;63;4;R$ 780,00;R$ 585,00;R$ 195,00;Centro-Oeste;Diego;Devolução;R$ 398,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;76;26/08/2022;18;5;R$ 3.400,00;R$ 2.516,00;R$ 884,00;Sul;Maria;Devolução;R$ 393,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;29;05/01/2017;23;5;R$ 5.410,00;R$ 4.273,90;R$ 1.136,10;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+88;Estojo Escolar;Papelaria;Papelaria;41;07/02/2019;88;6;R$ 24.438,00;R$ 19.306,02;R$ 5.131,98;Sudeste;João;Desconto;R$ 215,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;69;20/10/2018;53;6;R$ 29.760,00;R$ 18.451,20;R$ 11.308,80;Centro-Oeste;Diego;Devolução;R$ 231,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;14;12/09/2015;100;3;R$ 11.805,00;R$ 7.201,05;R$ 4.603,95;Sudeste;Ana;Desconto;R$ 186,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;51;17/12/2020;45;1;R$ 1.266,00;R$ 784,92;R$ 481,08;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+21;MacBook Air;Notebooks;Informática;67;09/10/2025;21;4;R$ 5.184,00;R$ 3.680,64;R$ 1.503,36;Centro-Oeste;André;Devolução;R$ 252,00;Com Perda
+4;Samsung Galaxy S21;Smartphones;Eletrônicos;92;14/09/2023;4;7;R$ 9.989,00;R$ 7.291,97;R$ 2.697,03;Centro-Oeste;André;Devolução;R$ 336,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;78;12/04/2023;52;5;R$ 3.840,00;R$ 2.073,60;R$ 1.766,40;Norte;Paula;Devolução;R$ 322,00;Com Perda
+89;Impressora HP;Informática;Informática;99;25/01/2022;89;9;R$ 8.064,00;R$ 4.032,00;R$ 4.032,00;Sul;Lucas;Cancelamento;R$ 423,00;Com Perda
+62;Vestido Casual;Roupas;Roupas;76;04/12/2025;62;3;R$ 14.055,00;R$ 10.541,25;R$ 3.513,75;Centro-Oeste;André;Devolução;R$ 462,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;18;09/12/2019;72;2;R$ 6.618,00;R$ 4.169,34;R$ 2.448,66;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;22;28/05/2025;34;7;R$ 22.106,00;R$ 14.147,84;R$ 7.958,16;Nordeste;Rafael;Cancelamento;R$ 252,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;61;10/07/2018;46;7;R$ 15.561,00;R$ 8.714,16;R$ 6.846,84;Sudeste;Pedro;Devolução;R$ 495,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;86;12/02/2025;34;1;R$ 2.174,00;R$ 1.239,18;R$ 934,82;Norte;Paula;Cancelamento;R$ 392,00;Com Perda
+62;Vestido Casual;Roupas;Roupas;45;27/12/2020;62;8;R$ 17.584,00;R$ 13.188,00;R$ 4.396,00;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+67;Hidratante Corporal;Beleza;Beleza;79;03/03/2023;67;6;R$ 28.524,00;R$ 20.252,04;R$ 8.271,96;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;67;02/06/2018;2;10;R$ 49.680,00;R$ 37.260,00;R$ 12.420,00;Centro-Oeste;André;Devolução;R$ 401,00;Com Perda
+95;Switch de Rede;Informática;Informática;91;07/05/2020;95;8;R$ 15.280,00;R$ 11.612,80;R$ 3.667,20;Centro-Oeste;Carla;Desconto;R$ 87,00;Com Perda
+97;SSD 500GB;Informática;Informática;44;04/12/2017;97;3;R$ 14.466,00;R$ 10.560,18;R$ 3.905,82;Norte;Marcos;Cancelamento;R$ 388,00;Com Perda
+50;Cama Box Solteiro;Móveis;Casa;81;27/02/2024;50;7;R$ 24.507,00;R$ 17.399,97;R$ 7.107,03;Centro-Oeste;Carla;Desconto;R$ 70,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;91;20/07/2016;8;5;R$ 1.040,00;R$ 665,60;R$ 374,40;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;31;09/11/2023;36;7;R$ 6.342,00;R$ 4.946,76;R$ 1.395,24;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;59;07/01/2019;28;3;R$ 13.947,00;R$ 8.786,61;R$ 5.160,39;Sul;Maria;Desconto;R$ 78,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;66;02/08/2019;70;5;R$ 10.825,00;R$ 7.685,75;R$ 3.139,25;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;72;11/03/2020;23;3;R$ 11.790,00;R$ 8.960,40;R$ 2.829,60;Sudeste;Pedro;Desconto;R$ 483,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;30;09/02/2025;13;3;R$ 1.011,00;R$ 788,58;R$ 222,42;Centro-Oeste;Carla;Devolução;R$ 148,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;81;01/03/2022;80;3;R$ 12.360,00;R$ 8.034,00;R$ 4.326,00;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;41;15/06/2022;32;1;R$ 2.379,00;R$ 1.308,45;R$ 1.070,55;Sul;Lucas;Cancelamento;R$ 424,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;54;13/04/2023;5;10;R$ 5.700,00;R$ 2.850,00;R$ 2.850,00;Sudeste;Ana;Desconto;R$ 321,00;Com Perda
+43;Sofá 3 Lugares;Móveis;Casa;74;08/02/2020;43;5;R$ 7.605,00;R$ 5.247,45;R$ 2.357,55;Centro-Oeste;Diego;Devolução;R$ 488,00;Com Perda
+28;Headset Gamer Logitech;Acessórios;Informática;87;09/11/2016;28;3;R$ 12.066,00;R$ 9.411,48;R$ 2.654,52;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;33;19/11/2021;70;9;R$ 30.285,00;R$ 17.868,15;R$ 12.416,85;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;64;28/01/2018;18;1;R$ 1.484,00;R$ 1.038,80;R$ 445,20;Sudeste;Pedro;Devolução;R$ 60,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;43;28/03/2021;40;9;R$ 12.186,00;R$ 6.824,16;R$ 5.361,84;Nordeste;Carlos;Cancelamento;R$ 74,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;64;07/04/2020;48;8;R$ 37.088,00;R$ 25.590,72;R$ 11.497,28;Nordeste;Rafael;Desconto;R$ 159,00;Com Perda
+44;Mesa de Jantar 4 lugares;Móveis;Casa;47;08/04/2020;44;2;R$ 1.356,00;R$ 1.017,00;R$ 339,00;Centro-Oeste;André;Cancelamento;R$ 172,00;Com Perda
+90;Impressora Epson;Informática;Informática;72;05/04/2022;90;6;R$ 6.924,00;R$ 4.846,80;R$ 2.077,20;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+90;Impressora Epson;Informática;Informática;22;04/12/2022;90;4;R$ 2.612,00;R$ 1.332,12;R$ 1.279,88;Centro-Oeste;Carla;Devolução;R$ 146,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;70;15/03/2015;58;4;R$ 8.656,00;R$ 5.972,64;R$ 2.683,36;Sul;Maria;Desconto;R$ 261,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;5;10/03/2024;40;3;R$ 13.197,00;R$ 7.918,20;R$ 5.278,80;Centro-Oeste;André;Desconto;R$ 347,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;90;13/01/2023;40;2;R$ 732,00;R$ 549,00;R$ 183,00;Sudeste;Ana;Cancelamento;R$ 174,00;Com Perda
+37;Air Fryer Philips;Eletrodomésticos;Casa;68;01/03/2021;37;10;R$ 7.060,00;R$ 3.812,40;R$ 3.247,60;Centro-Oeste;Diego;Desconto;R$ 342,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;24;06/03/2018;100;9;R$ 21.825,00;R$ 12.658,50;R$ 9.166,50;Sudeste;João;Devolução;R$ 414,00;Com Perda
+65;Perfume Feminino;Beleza;Beleza;4;21/11/2025;65;2;R$ 3.060,00;R$ 1.744,20;R$ 1.315,80;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;74;15/04/2023;30;6;R$ 18.870,00;R$ 11.322,00;R$ 7.548,00;Sudeste;Pedro;Cancelamento;R$ 283,00;Com Perda
+97;SSD 500GB;Informática;Informática;11;20/12/2022;97;7;R$ 34.559,00;R$ 26.264,84;R$ 8.294,16;Sudeste;Pedro;Cancelamento;R$ 408,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;31;06/08/2021;34;1;R$ 4.419,00;R$ 2.739,78;R$ 1.679,22;Nordeste;Rafael;Desconto;R$ 418,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;59;17/12/2015;23;1;R$ 3.716,00;R$ 1.932,32;R$ 1.783,68;Sul;Lucas;Devolução;R$ 359,00;Com Perda
+36;Air Fryer Mondial;Eletrodomésticos;Casa;57;04/05/2022;36;7;R$ 32.872,00;R$ 24.654,00;R$ 8.218,00;Centro-Oeste;Carla;Desconto;R$ 416,00;Com Perda
+79;Pneu Aro 17;Automotivo;Automotivo;88;08/09/2021;79;10;R$ 29.630,00;R$ 21.629,90;R$ 8.000,10;Centro-Oeste;André;Devolução;R$ 316,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;34;07/07/2016;85;7;R$ 10.871,00;R$ 6.848,73;R$ 4.022,27;Nordeste;Rafael;Cancelamento;R$ 321,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;84;01/09/2017;52;6;R$ 3.930,00;R$ 2.397,30;R$ 1.532,70;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;18;24/12/2020;26;9;R$ 25.524,00;R$ 14.293,44;R$ 11.230,56;Centro-Oeste;Carla;Desconto;R$ 499,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;41;22/01/2023;13;8;R$ 37.272,00;R$ 22.363,20;R$ 14.908,80;Nordeste;Fernanda;Cancelamento;R$ 82,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;34;17/03/2017;27;7;R$ 5.985,00;R$ 4.788,00;R$ 1.197,00;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;4;24/05/2018;54;3;R$ 7.575,00;R$ 4.848,00;R$ 2.727,00;Sul;Maria;Desconto;R$ 423,00;Com Perda
+69;Condicionador;Beleza;Beleza;53;22/12/2016;69;1;R$ 3.211,00;R$ 1.605,50;R$ 1.605,50;Sul;Maria;Cancelamento;R$ 204,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;61;08/09/2022;2;5;R$ 21.425,00;R$ 16.497,25;R$ 4.927,75;Centro-Oeste;André;Devolução;R$ 108,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;29;09/01/2023;94;7;R$ 33.698,00;R$ 20.218,80;R$ 13.479,20;Centro-Oeste;Diego;Desconto;R$ 417,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;77;25/02/2019;6;1;R$ 644,00;R$ 367,08;R$ 276,92;Sudeste;Pedro;Devolução;R$ 484,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;69;16/01/2019;78;4;R$ 17.528,00;R$ 9.640,40;R$ 7.887,60;Sudeste;Ana;Cancelamento;R$ 467,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;48;08/02/2025;30;10;R$ 34.990,00;R$ 27.642,10;R$ 7.347,90;Sudeste;João;Devolução;R$ 421,00;Com Perda
+29;Webcam HD Logitech;Acessórios;Informática;25;11/05/2025;29;2;R$ 7.566,00;R$ 4.917,90;R$ 2.648,10;Sudeste;João;Desconto;R$ 320,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;65;14/10/2021;82;7;R$ 20.223,00;R$ 13.549,41;R$ 6.673,59;Norte;Juliana;Desconto;R$ 344,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;69;15/11/2019;12;5;R$ 9.590,00;R$ 5.178,60;R$ 4.411,40;Centro-Oeste;Carla;Desconto;R$ 255,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;2;26/03/2023;85;4;R$ 6.572,00;R$ 3.680,32;R$ 2.891,68;Sul;Bruno;Desconto;R$ 437,00;Com Perda
+35;Microondas LG;Eletrodomésticos;Casa;1;27/08/2016;35;7;R$ 34.440,00;R$ 23.419,20;R$ 11.020,80;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+4;Samsung Galaxy S21;Smartphones;Eletrônicos;26;28/09/2020;4;6;R$ 21.768,00;R$ 16.108,32;R$ 5.659,68;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;93;06/11/2023;11;2;R$ 1.896,00;R$ 1.099,68;R$ 796,32;Nordeste;Rafael;Cancelamento;R$ 220,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;13;11/12/2021;31;2;R$ 5.834,00;R$ 3.092,02;R$ 2.741,98;Sul;Lucas;Devolução;R$ 473,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;71;07/02/2022;74;1;R$ 3.840,00;R$ 2.380,80;R$ 1.459,20;Sul;Lucas;Cancelamento;R$ 497,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;91;11/07/2025;13;5;R$ 11.480,00;R$ 6.773,20;R$ 4.706,80;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+66;Creme Facial;Beleza;Beleza;30;12/08/2022;66;4;R$ 19.960,00;R$ 11.177,60;R$ 8.782,40;Centro-Oeste;Carla;Devolução;R$ 472,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;21;03/11/2016;46;6;R$ 6.828,00;R$ 5.325,84;R$ 1.502,16;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;19;20/11/2024;17;10;R$ 37.030,00;R$ 25.180,40;R$ 11.849,60;Sul;Lucas;Desconto;R$ 201,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;20;24/01/2024;55;6;R$ 26.958,00;R$ 21.566,40;R$ 5.391,60;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+63;Vestido Social;Roupas;Roupas;66;22/08/2025;63;9;R$ 29.106,00;R$ 17.172,54;R$ 11.933,46;Sul;Bruno;Devolução;R$ 463,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;91;24/07/2023;13;9;R$ 31.770,00;R$ 23.827,50;R$ 7.942,50;Nordeste;Rafael;Cancelamento;R$ 398,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;83;25/07/2017;55;9;R$ 23.310,00;R$ 17.948,70;R$ 5.361,30;Nordeste;Carlos;Desconto;R$ 240,00;Com Perda
+88;Estojo Escolar;Papelaria;Papelaria;80;13/06/2021;88;5;R$ 1.325,00;R$ 927,50;R$ 397,50;Norte;Marcos;Desconto;R$ 369,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;20;24/10/2022;78;7;R$ 17.381,00;R$ 10.080,98;R$ 7.300,02;Sul;Maria;Desconto;R$ 461,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;63;07/02/2018;74;3;R$ 14.751,00;R$ 7.375,50;R$ 7.375,50;Sudeste;João;Cancelamento;R$ 487,00;Com Perda
+69;Condicionador;Beleza;Beleza;16;03/07/2017;69;5;R$ 11.145,00;R$ 8.581,65;R$ 2.563,35;Norte;Juliana;Devolução;R$ 246,00;Com Perda
+35;Microondas LG;Eletrodomésticos;Casa;18;08/03/2022;35;4;R$ 18.688,00;R$ 12.334,08;R$ 6.353,92;Nordeste;Fernanda;Desconto;R$ 487,00;Com Perda
+25;Teclado Mecânico Redragon;Acessórios;Informática;1;01/11/2025;25;10;R$ 32.510,00;R$ 19.506,00;R$ 13.004,00;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;63;04/03/2021;23;5;R$ 8.300,00;R$ 5.063,00;R$ 3.237,00;Sudeste;Pedro;Devolução;R$ 492,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;58;28/02/2015;80;1;R$ 390,00;R$ 265,20;R$ 124,80;Centro-Oeste;André;Cancelamento;R$ 197,00;Com Perda
+67;Hidratante Corporal;Beleza;Beleza;10;16/04/2018;67;4;R$ 5.492,00;R$ 4.228,84;R$ 1.263,16;Centro-Oeste;André;Desconto;R$ 411,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;7;23/02/2016;98;4;R$ 6.288,00;R$ 3.332,64;R$ 2.955,36;Norte;Marcos;Cancelamento;R$ 107,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;57;01/05/2019;70;1;R$ 3.250,00;R$ 1.755,00;R$ 1.495,00;Norte;Juliana;Cancelamento;R$ 219,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;69;17/11/2025;100;3;R$ 9.336,00;R$ 5.694,96;R$ 3.641,04;Norte;Marcos;Devolução;R$ 200,00;Com Perda
+74;Halter 10kg;Esportes;Esportes;76;03/08/2025;74;4;R$ 1.900,00;R$ 1.463,00;R$ 437,00;Sudeste;Pedro;Devolução;R$ 360,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;45;09/12/2017;20;3;R$ 12.273,00;R$ 7.118,34;R$ 5.154,66;Sudeste;Pedro;Cancelamento;R$ 410,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;82;12/03/2018;5;8;R$ 28.272,00;R$ 14.984,16;R$ 13.287,84;Sudeste;Pedro;Devolução;R$ 82,00;Com Perda
+73;Halter 5kg;Esportes;Esportes;47;10/02/2020;73;3;R$ 9.903,00;R$ 5.941,80;R$ 3.961,20;Centro-Oeste;Diego;Cancelamento;R$ 163,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;7;11/11/2015;46;9;R$ 36.009,00;R$ 25.926,48;R$ 10.082,52;Norte;Juliana;Devolução;R$ 285,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;100;06/05/2022;55;4;R$ 14.340,00;R$ 8.604,00;R$ 5.736,00;Centro-Oeste;André;Devolução;R$ 486,00;Com Perda
+18;Notebook Dell XPS;Notebooks;Informática;33;16/04/2018;18;3;R$ 3.735,00;R$ 2.166,30;R$ 1.568,70;Sudeste;João;Cancelamento;R$ 58,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;37;23/04/2021;75;1;R$ 3.359,00;R$ 2.250,53;R$ 1.108,47;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;74;14/11/2022;38;7;R$ 31.514,00;R$ 25.211,20;R$ 6.302,80;Centro-Oeste;Diego;Desconto;R$ 340,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;3;22/07/2022;11;8;R$ 14.200,00;R$ 8.520,00;R$ 5.680,00;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;31;19/06/2025;2;8;R$ 5.056,00;R$ 3.842,56;R$ 1.213,44;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;30;22/03/2018;38;6;R$ 19.680,00;R$ 12.004,80;R$ 7.675,20;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;89;23/04/2024;94;1;R$ 2.076,00;R$ 1.224,84;R$ 851,16;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;14;08/06/2015;53;6;R$ 22.872,00;R$ 17.840,16;R$ 5.031,84;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+66;Creme Facial;Beleza;Beleza;65;15/08/2022;66;9;R$ 5.400,00;R$ 4.320,00;R$ 1.080,00;Centro-Oeste;Carla;Devolução;R$ 454,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;61;06/07/2018;51;6;R$ 18.870,00;R$ 11.133,30;R$ 7.736,70;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;47;06/11/2022;78;10;R$ 32.340,00;R$ 16.493,40;R$ 15.846,60;Sul;Bruno;Devolução;R$ 152,00;Com Perda
+73;Halter 5kg;Esportes;Esportes;83;16/06/2019;73;7;R$ 14.994,00;R$ 11.395,44;R$ 3.598,56;Nordeste;Rafael;Cancelamento;R$ 155,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;38;06/09/2024;81;10;R$ 30.020,00;R$ 21.014,00;R$ 9.006,00;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;77;16/10/2025;45;4;R$ 9.284,00;R$ 7.427,20;R$ 1.856,80;Nordeste;Fernanda;Cancelamento;R$ 194,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;67;18/10/2018;19;10;R$ 48.850,00;R$ 29.310,00;R$ 19.540,00;Centro-Oeste;André;Devolução;R$ 117,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;65;27/08/2025;27;5;R$ 8.100,00;R$ 5.832,00;R$ 2.268,00;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;80;13/02/2024;75;10;R$ 29.490,00;R$ 22.707,30;R$ 6.782,70;Nordeste;Fernanda;Devolução;R$ 64,00;Com Perda
+76;Bicicleta Ergométrica;Esportes;Esportes;69;13/01/2017;76;6;R$ 4.116,00;R$ 2.099,16;R$ 2.016,84;Norte;Paula;Desconto;R$ 124,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;53;17/04/2018;17;7;R$ 27.503,00;R$ 18.427,01;R$ 9.075,99;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+95;Switch de Rede;Informática;Informática;65;24/04/2019;95;7;R$ 3.087,00;R$ 1.883,07;R$ 1.203,93;Norte;Paula;Cancelamento;R$ 479,00;Com Perda
+66;Creme Facial;Beleza;Beleza;85;24/12/2021;66;10;R$ 14.090,00;R$ 10.990,20;R$ 3.099,80;Sudeste;Pedro;Desconto;R$ 67,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;51;21/09/2020;87;2;R$ 8.902,00;R$ 5.964,34;R$ 2.937,66;Norte;Marcos;Desconto;R$ 359,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;73;26/11/2017;31;9;R$ 42.714,00;R$ 25.628,40;R$ 17.085,60;Sul;Lucas;Devolução;R$ 246,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;39;08/09/2018;93;10;R$ 2.510,00;R$ 1.656,60;R$ 853,40;Nordeste;Fernanda;Cancelamento;R$ 257,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;45;20/02/2024;98;7;R$ 21.091,00;R$ 11.810,96;R$ 9.280,04;Nordeste;Fernanda;Devolução;R$ 294,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;80;27/12/2019;51;10;R$ 25.840,00;R$ 17.312,80;R$ 8.527,20;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;55;26/02/2025;46;2;R$ 1.700,00;R$ 1.020,00;R$ 680,00;Sudeste;Ana;Desconto;R$ 484,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;86;11/06/2023;94;3;R$ 10.410,00;R$ 6.870,60;R$ 3.539,40;Sul;Maria;Devolução;R$ 181,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;40;24/02/2016;19;7;R$ 29.330,00;R$ 16.424,80;R$ 12.905,20;Sul;Bruno;Desconto;R$ 255,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;30;27/06/2019;39;6;R$ 24.168,00;R$ 15.950,88;R$ 8.217,12;Sudeste;Pedro;Desconto;R$ 287,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;23;28/10/2020;96;7;R$ 20.783,00;R$ 16.626,40;R$ 4.156,60;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;8;05/03/2019;52;2;R$ 4.462,00;R$ 3.480,36;R$ 981,64;Sudeste;João;Cancelamento;R$ 109,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;42;07/04/2019;7;9;R$ 11.430,00;R$ 6.858,00;R$ 4.572,00;Sul;Lucas;Devolução;R$ 345,00;Com Perda
+95;Switch de Rede;Informática;Informática;19;01/11/2019;95;2;R$ 4.516,00;R$ 2.799,92;R$ 1.716,08;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+29;Webcam HD Logitech;Acessórios;Informática;85;08/09/2025;29;2;R$ 6.012,00;R$ 3.847,68;R$ 2.164,32;Norte;Paula;Cancelamento;R$ 194,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;30;01/02/2015;1;4;R$ 19.740,00;R$ 13.225,80;R$ 6.514,20;Nordeste;Carlos;Desconto;R$ 350,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;19;07/11/2019;27;5;R$ 17.540,00;R$ 12.102,60;R$ 5.437,40;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;57;18/05/2019;60;1;R$ 1.303,00;R$ 964,22;R$ 338,78;Norte;Marcos;Cancelamento;R$ 277,00;Com Perda
+4;Samsung Galaxy S21;Smartphones;Eletrônicos;81;13/08/2022;4;2;R$ 9.864,00;R$ 6.214,32;R$ 3.649,68;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;68;16/09/2023;70;2;R$ 4.966,00;R$ 3.426,54;R$ 1.539,46;Sul;Bruno;Desconto;R$ 263,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;80;01/04/2017;12;1;R$ 931,00;R$ 465,50;R$ 465,50;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;96;11/06/2015;13;2;R$ 9.716,00;R$ 7.772,80;R$ 1.943,20;Centro-Oeste;Carla;Devolução;R$ 313,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;82;25/09/2021;34;10;R$ 44.620,00;R$ 24.541,00;R$ 20.079,00;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;61;05/12/2019;26;2;R$ 320,00;R$ 220,80;R$ 99,20;Nordeste;Fernanda;Desconto;R$ 173,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;40;28/03/2018;30;9;R$ 39.996,00;R$ 26.797,32;R$ 13.198,68;Nordeste;Rafael;Desconto;R$ 183,00;Com Perda
+91;Scanner Epson;Informática;Informática;90;18/02/2020;91;6;R$ 22.392,00;R$ 14.778,72;R$ 7.613,28;Nordeste;Fernanda;Desconto;R$ 286,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;22;11/09/2021;54;2;R$ 460,00;R$ 262,20;R$ 197,80;Sul;Maria;Desconto;R$ 154,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;32;15/09/2015;54;2;R$ 472,00;R$ 311,52;R$ 160,48;Norte;Marcos;Devolução;R$ 221,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;65;12/05/2025;83;1;R$ 536,00;R$ 316,24;R$ 219,76;Sul;Lucas;Devolução;R$ 163,00;Com Perda
+21;MacBook Air;Notebooks;Informática;49;02/11/2025;21;1;R$ 1.513,00;R$ 1.119,62;R$ 393,38;Nordeste;Carlos;Devolução;R$ 333,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;89;09/06/2018;82;9;R$ 43.983,00;R$ 32.107,59;R$ 11.875,41;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;83;02/07/2024;94;5;R$ 1.750,00;R$ 1.050,00;R$ 700,00;Centro-Oeste;Diego;Cancelamento;R$ 231,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;25;13/04/2023;33;3;R$ 9.414,00;R$ 7.248,78;R$ 2.165,22;Nordeste;Fernanda;Desconto;R$ 485,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;41;07/09/2020;14;6;R$ 17.268,00;R$ 8.979,36;R$ 8.288,64;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;67;22/02/2022;54;4;R$ 9.640,00;R$ 5.784,00;R$ 3.856,00;Nordeste;Rafael;Desconto;R$ 432,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;72;28/01/2024;72;1;R$ 418,00;R$ 225,72;R$ 192,28;Centro-Oeste;Diego;Cancelamento;R$ 348,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;10;17/12/2018;17;3;R$ 14.433,00;R$ 8.515,47;R$ 5.917,53;Centro-Oeste;André;Cancelamento;R$ 340,00;Com Perda
+97;SSD 500GB;Informática;Informática;14;12/08/2021;97;1;R$ 964,00;R$ 549,48;R$ 414,52;Norte;Juliana;Devolução;R$ 488,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;90;26/11/2025;51;9;R$ 32.022,00;R$ 18.252,54;R$ 13.769,46;Norte;Paula;Desconto;R$ 495,00;Com Perda
+68;Shampoo;Beleza;Beleza;32;24/06/2017;68;9;R$ 43.218,00;R$ 33.277,86;R$ 9.940,14;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;48;01/04/2019;83;5;R$ 23.615,00;R$ 13.224,40;R$ 10.390,60;Centro-Oeste;Carla;Desconto;R$ 444,00;Com Perda
+43;Sofá 3 Lugares;Móveis;Casa;70;06/04/2025;43;1;R$ 3.810,00;R$ 2.362,20;R$ 1.447,80;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+84;Caderno Espiral;Papelaria;Papelaria;2;09/11/2020;84;1;R$ 365,00;R$ 281,05;R$ 83,95;Sul;Lucas;Cancelamento;R$ 280,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;30;15/02/2021;83;10;R$ 39.770,00;R$ 25.452,80;R$ 14.317,20;Sudeste;Pedro;Devolução;R$ 57,00;Com Perda
+42;Sofá 2 Lugares;Móveis;Casa;56;03/08/2015;42;9;R$ 11.826,00;R$ 9.460,80;R$ 2.365,20;Nordeste;Rafael;Cancelamento;R$ 240,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;79;13/07/2022;20;3;R$ 9.150,00;R$ 6.313,50;R$ 2.836,50;Sul;Maria;Cancelamento;R$ 463,00;Com Perda
+29;Webcam HD Logitech;Acessórios;Informática;23;03/06/2020;29;4;R$ 11.636,00;R$ 9.076,08;R$ 2.559,92;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;1;25/09/2019;3;3;R$ 14.772,00;R$ 11.374,44;R$ 3.397,56;Sul;Lucas;Cancelamento;R$ 190,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;42;04/11/2018;34;5;R$ 20.595,00;R$ 14.622,45;R$ 5.972,55;Sul;Maria;Cancelamento;R$ 196,00;Com Perda
+69;Condicionador;Beleza;Beleza;85;08/06/2023;69;7;R$ 29.120,00;R$ 20.092,80;R$ 9.027,20;Centro-Oeste;André;Devolução;R$ 295,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;81;28/06/2021;30;10;R$ 15.360,00;R$ 11.059,20;R$ 4.300,80;Nordeste;Fernanda;Desconto;R$ 374,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;87;09/12/2021;80;3;R$ 7.389,00;R$ 4.728,96;R$ 2.660,04;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+89;Impressora HP;Informática;Informática;25;05/10/2022;89;4;R$ 8.480,00;R$ 6.020,80;R$ 2.459,20;Nordeste;Carlos;Desconto;R$ 175,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;59;23/08/2015;83;6;R$ 17.940,00;R$ 13.813,80;R$ 4.126,20;Nordeste;Carlos;Cancelamento;R$ 232,00;Com Perda
+50;Cama Box Solteiro;Móveis;Casa;39;07/03/2020;50;9;R$ 20.340,00;R$ 15.051,60;R$ 5.288,40;Sudeste;Ana;Cancelamento;R$ 244,00;Com Perda
+43;Sofá 3 Lugares;Móveis;Casa;57;04/10/2015;43;5;R$ 9.875,00;R$ 6.616,25;R$ 3.258,75;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+66;Creme Facial;Beleza;Beleza;50;05/02/2019;66;3;R$ 1.719,00;R$ 1.323,63;R$ 395,37;Sudeste;Ana;Devolução;R$ 211,00;Com Perda
+67;Hidratante Corporal;Beleza;Beleza;27;14/11/2020;67;3;R$ 11.439,00;R$ 8.693,64;R$ 2.745,36;Norte;Juliana;Cancelamento;R$ 238,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;8;02/12/2024;19;8;R$ 32.640,00;R$ 20.889,60;R$ 11.750,40;Norte;Paula;Cancelamento;R$ 353,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;26;25/07/2015;100;4;R$ 17.968,00;R$ 11.499,52;R$ 6.468,48;Sudeste;Pedro;Cancelamento;R$ 377,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;4;08/02/2015;80;10;R$ 6.980,00;R$ 5.095,40;R$ 1.884,60;Centro-Oeste;Diego;Desconto;R$ 454,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;88;21/05/2023;14;5;R$ 11.950,00;R$ 6.931,00;R$ 5.019,00;Norte;Marcos;Devolução;R$ 223,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;29;03/03/2017;27;3;R$ 5.148,00;R$ 3.758,04;R$ 1.389,96;Centro-Oeste;Carla;Desconto;R$ 81,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;49;18/10/2016;40;8;R$ 4.192,00;R$ 3.227,84;R$ 964,16;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;63;22/07/2015;39;6;R$ 19.398,00;R$ 10.862,88;R$ 8.535,12;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;78;28/12/2016;87;7;R$ 22.442,00;R$ 13.240,78;R$ 9.201,22;Sul;Lucas;Cancelamento;R$ 82,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;80;27/01/2018;12;6;R$ 15.660,00;R$ 10.962,00;R$ 4.698,00;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;23;14/01/2022;30;3;R$ 11.418,00;R$ 7.878,42;R$ 3.539,58;Norte;Paula;Devolução;R$ 71,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;96;03/01/2018;98;8;R$ 26.808,00;R$ 20.642,16;R$ 6.165,84;Sudeste;Ana;Desconto;R$ 488,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;38;27/12/2023;78;7;R$ 31.962,00;R$ 19.177,20;R$ 12.784,80;Sudeste;Ana;Cancelamento;R$ 309,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;37;24/02/2017;11;2;R$ 3.132,00;R$ 1.816,56;R$ 1.315,44;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;16;21/10/2021;33;8;R$ 35.280,00;R$ 25.401,60;R$ 9.878,40;Sudeste;João;Cancelamento;R$ 295,00;Com Perda
+45;Mesa de Jantar 6 lugares;Móveis;Casa;58;19/08/2024;45;10;R$ 35.290,00;R$ 20.468,20;R$ 14.821,80;Sul;Maria;Devolução;R$ 248,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;16;26/01/2020;19;7;R$ 21.210,00;R$ 15.483,30;R$ 5.726,70;Sudeste;Ana;Desconto;R$ 293,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;65;27/03/2022;5;6;R$ 11.442,00;R$ 8.009,40;R$ 3.432,60;Nordeste;Fernanda;Desconto;R$ 460,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;72;20/11/2017;78;5;R$ 18.505,00;R$ 9.252,50;R$ 9.252,50;Norte;Marcos;Cancelamento;R$ 371,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;14;09/01/2024;85;10;R$ 14.450,00;R$ 11.126,50;R$ 3.323,50;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;98;11/05/2023;7;4;R$ 1.140,00;R$ 570,00;R$ 570,00;Centro-Oeste;Diego;Desconto;R$ 492,00;Com Perda
+79;Pneu Aro 17;Automotivo;Automotivo;5;26/11/2020;79;3;R$ 4.929,00;R$ 2.513,79;R$ 2.415,21;Centro-Oeste;Diego;Cancelamento;R$ 372,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;41;24/02/2024;38;6;R$ 10.140,00;R$ 7.605,00;R$ 2.535,00;Sudeste;Ana;Desconto;R$ 230,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;72;09/07/2021;7;10;R$ 38.840,00;R$ 29.906,80;R$ 8.933,20;Sul;Bruno;Devolução;R$ 355,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;12;16/02/2017;14;9;R$ 32.652,00;R$ 19.591,20;R$ 13.060,80;Sul;Lucas;Devolução;R$ 420,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;63;16/01/2020;12;3;R$ 10.224,00;R$ 5.418,72;R$ 4.805,28;Sudeste;Ana;Devolução;R$ 239,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;13;17/09/2017;48;4;R$ 10.228,00;R$ 6.341,36;R$ 3.886,64;Sul;Lucas;Cancelamento;R$ 158,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;70;25/03/2025;19;6;R$ 21.840,00;R$ 12.448,80;R$ 9.391,20;Centro-Oeste;Diego;Desconto;R$ 92,00;Com Perda
+80;Óleo de Motor;Automotivo;Automotivo;17;01/09/2021;80;9;R$ 43.092,00;R$ 27.578,88;R$ 15.513,12;Sudeste;Ana;Desconto;R$ 334,00;Com Perda
+62;Vestido Casual;Roupas;Roupas;77;07/12/2022;62;9;R$ 16.182,00;R$ 12.621,96;R$ 3.560,04;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+89;Impressora HP;Informática;Informática;87;11/09/2025;89;5;R$ 10.475,00;R$ 7.961,00;R$ 2.514,00;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;5;14/12/2025;55;1;R$ 1.214,00;R$ 813,38;R$ 400,62;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;27;12/11/2022;31;7;R$ 17.493,00;R$ 10.495,80;R$ 6.997,20;Norte;Paula;Desconto;R$ 278,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;47;09/02/2018;9;5;R$ 12.620,00;R$ 9.969,80;R$ 2.650,20;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;62;10/11/2022;85;10;R$ 9.320,00;R$ 5.219,20;R$ 4.100,80;Sul;Maria;Cancelamento;R$ 490,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;61;21/06/2024;14;1;R$ 4.527,00;R$ 2.580,39;R$ 1.946,61;Norte;Marcos;Devolução;R$ 427,00;Com Perda
+83;Caderno Universitário;Papelaria;Papelaria;97;10/01/2018;83;7;R$ 11.879,00;R$ 6.771,03;R$ 5.107,97;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;43;09/06/2024;20;9;R$ 13.275,00;R$ 7.168,50;R$ 6.106,50;Sudeste;João;Devolução;R$ 78,00;Com Perda
+4;Samsung Galaxy S21;Smartphones;Eletrônicos;48;28/05/2019;4;2;R$ 8.318,00;R$ 4.658,08;R$ 3.659,92;Nordeste;Fernanda;Desconto;R$ 51,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;55;14/07/2023;17;9;R$ 7.848,00;R$ 5.807,52;R$ 2.040,48;Centro-Oeste;André;Desconto;R$ 264,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;47;06/07/2020;81;1;R$ 2.517,00;R$ 1.334,01;R$ 1.182,99;Sul;Maria;Devolução;R$ 141,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;99;17/10/2015;70;6;R$ 3.858,00;R$ 2.816,34;R$ 1.041,66;Nordeste;Fernanda;Devolução;R$ 350,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;91;03/09/2018;54;2;R$ 1.320,00;R$ 1.056,00;R$ 264,00;Norte;Marcos;Cancelamento;R$ 318,00;Com Perda
+42;Sofá 2 Lugares;Móveis;Casa;91;11/10/2016;42;8;R$ 4.992,00;R$ 3.943,68;R$ 1.048,32;Norte;Juliana;Desconto;R$ 483,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;35;23/03/2018;75;6;R$ 10.278,00;R$ 5.447,34;R$ 4.830,66;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;16;18/01/2023;52;8;R$ 6.640,00;R$ 3.784,80;R$ 2.855,20;Nordeste;Carlos;Desconto;R$ 475,00;Com Perda
+66;Creme Facial;Beleza;Beleza;56;14/05/2023;66;8;R$ 38.008,00;R$ 26.985,68;R$ 11.022,32;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;83;06/03/2017;5;9;R$ 34.659,00;R$ 27.380,61;R$ 7.278,39;Sul;Lucas;Devolução;R$ 162,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;40;07/02/2023;100;7;R$ 1.883,00;R$ 1.374,59;R$ 508,41;Sudeste;João;Cancelamento;R$ 220,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;35;14/11/2019;7;1;R$ 2.258,00;R$ 1.422,54;R$ 835,46;Nordeste;Fernanda;Devolução;R$ 161,00;Com Perda
+76;Bicicleta Ergométrica;Esportes;Esportes;97;09/07/2019;76;4;R$ 752,00;R$ 496,32;R$ 255,68;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;24;05/10/2022;17;10;R$ 9.440,00;R$ 5.947,20;R$ 3.492,80;Norte;Juliana;Cancelamento;R$ 258,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;65;03/01/2025;23;10;R$ 1.790,00;R$ 1.288,80;R$ 501,20;Centro-Oeste;André;Desconto;R$ 488,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;99;04/12/2021;56;1;R$ 4.248,00;R$ 2.166,48;R$ 2.081,52;Sul;Lucas;Devolução;R$ 178,00;Com Perda
+19;Notebook Lenovo IdeaPad;Notebooks;Informática;45;12/01/2019;19;1;R$ 1.447,00;R$ 752,44;R$ 694,56;Norte;Marcos;Desconto;R$ 211,00;Com Perda
+94;Roteador Wi-Fi;Informática;Informática;75;19/03/2023;94;1;R$ 991,00;R$ 535,14;R$ 455,86;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+90;Impressora Epson;Informática;Informática;50;27/06/2018;90;7;R$ 2.541,00;R$ 2.007,39;R$ 533,61;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+42;Sofá 2 Lugares;Móveis;Casa;11;25/07/2022;42;2;R$ 1.154,00;R$ 703,94;R$ 450,06;Centro-Oeste;Carla;Devolução;R$ 332,00;Com Perda
+47;Guarda-Roupa Casal;Móveis;Casa;26;14/06/2020;47;5;R$ 19.550,00;R$ 11.143,50;R$ 8.406,50;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+9;Motorola Edge 30;Smartphones;Eletrônicos;17;01/08/2016;9;8;R$ 11.816,00;R$ 6.144,32;R$ 5.671,68;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;57;24/10/2020;85;5;R$ 14.100,00;R$ 8.460,00;R$ 5.640,00;Norte;Marcos;Devolução;R$ 410,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;45;20/06/2022;20;2;R$ 8.540,00;R$ 5.807,20;R$ 2.732,80;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;78;12/12/2019;82;2;R$ 4.762,00;R$ 3.476,26;R$ 1.285,74;Norte;Juliana;Desconto;R$ 158,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;36;19/06/2024;38;8;R$ 25.552,00;R$ 19.419,52;R$ 6.132,48;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;50;08/10/2017;93;7;R$ 34.391,00;R$ 25.449,34;R$ 8.941,66;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+21;MacBook Air;Notebooks;Informática;99;14/07/2019;21;8;R$ 2.032,00;R$ 1.016,00;R$ 1.016,00;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;24;12/02/2019;99;9;R$ 3.807,00;R$ 2.398,41;R$ 1.408,59;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+48;Guarda-Roupa Solteiro;Móveis;Casa;45;01/08/2021;48;7;R$ 17.801,00;R$ 9.790,55;R$ 8.010,45;Sul;Maria;Desconto;R$ 92,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;70;21/01/2022;22;9;R$ 34.803,00;R$ 20.185,74;R$ 14.617,26;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;42;01/02/2016;40;9;R$ 2.385,00;R$ 1.597,95;R$ 787,05;Sudeste;Ana;Devolução;R$ 307,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;65;26/06/2019;11;1;R$ 3.011,00;R$ 1.866,82;R$ 1.144,18;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+38;Fogão 4 bocas;Eletrodomésticos;Casa;91;02/09/2023;38;1;R$ 4.612,00;R$ 2.628,84;R$ 1.983,16;Centro-Oeste;André;Desconto;R$ 395,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;86;05/02/2021;7;3;R$ 10.671,00;R$ 7.469,70;R$ 3.201,30;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+93;Monitor Samsung 27;Informática;Informática;44;06/11/2024;93;6;R$ 25.470,00;R$ 16.555,50;R$ 8.914,50;Centro-Oeste;André;Sem perda;R$ 0,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;43;07/03/2017;51;3;R$ 4.077,00;R$ 3.057,75;R$ 1.019,25;Nordeste;Rafael;Devolução;R$ 256,00;Com Perda
+69;Condicionador;Beleza;Beleza;92;18/10/2024;69;5;R$ 3.170,00;R$ 2.377,50;R$ 792,50;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;78;03/10/2019;17;3;R$ 10.242,00;R$ 6.554,88;R$ 3.687,12;Sudeste;João;Desconto;R$ 455,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;53;23/10/2022;87;4;R$ 15.052,00;R$ 10.837,44;R$ 4.214,56;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+77;Pneu Aro 13;Automotivo;Automotivo;40;06/02/2023;77;5;R$ 7.965,00;R$ 5.734,80;R$ 2.230,20;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;31;10/09/2022;11;10;R$ 8.360,00;R$ 6.019,20;R$ 2.340,80;Sul;Bruno;Desconto;R$ 80,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;93;14/10/2015;17;5;R$ 5.870,00;R$ 3.639,40;R$ 2.230,60;Norte;Marcos;Desconto;R$ 373,00;Com Perda
+68;Shampoo;Beleza;Beleza;22;19/03/2016;68;3;R$ 1.125,00;R$ 686,25;R$ 438,75;Sudeste;João;Desconto;R$ 313,00;Com Perda
+49;Cama Box Casal;Móveis;Casa;39;28/04/2021;49;4;R$ 9.096,00;R$ 4.638,96;R$ 4.457,04;Sudeste;João;Cancelamento;R$ 355,00;Com Perda
+64;Perfume Masculino;Beleza;Beleza;15;20/06/2022;64;8;R$ 13.096,00;R$ 9.560,08;R$ 3.535,92;Sudeste;Pedro;Devolução;R$ 302,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;12;02/03/2018;31;2;R$ 2.276,00;R$ 1.524,92;R$ 751,08;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+97;SSD 500GB;Informática;Informática;50;20/01/2019;97;1;R$ 726,00;R$ 508,20;R$ 217,80;Norte;Paula;Cancelamento;R$ 348,00;Com Perda
+31;Geladeira Brastemp;Eletrodomésticos;Casa;24;28/05/2015;31;6;R$ 22.632,00;R$ 16.974,00;R$ 5.658,00;Sul;Maria;Cancelamento;R$ 427,00;Com Perda
+8;Xiaomi Redmi Note 12;Smartphones;Eletrônicos;4;13/08/2017;8;5;R$ 3.260,00;R$ 2.053,80;R$ 1.206,20;Norte;Juliana;Desconto;R$ 133,00;Com Perda
+5;Samsung Galaxy S22;Smartphones;Eletrônicos;53;02/10/2022;5;7;R$ 16.338,00;R$ 9.476,04;R$ 6.861,96;Sul;Lucas;Cancelamento;R$ 258,00;Com Perda
+63;Vestido Social;Roupas;Roupas;81;24/05/2016;63;10;R$ 5.730,00;R$ 3.724,50;R$ 2.005,50;Sudeste;Pedro;Sem perda;R$ 0,00;Com Perda
+43;Sofá 3 Lugares;Móveis;Casa;57;26/12/2020;43;6;R$ 24.708,00;R$ 12.354,00;R$ 12.354,00;Nordeste;Fernanda;Cancelamento;R$ 349,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;41;28/10/2023;55;6;R$ 29.028,00;R$ 20.319,60;R$ 8.708,40;Nordeste;Rafael;Cancelamento;R$ 121,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;90;24/03/2016;51;10;R$ 12.950,00;R$ 9.065,00;R$ 3.885,00;Sul;Maria;Devolução;R$ 268,00;Com Perda
+7;Xiaomi Redmi Note 11;Smartphones;Eletrônicos;91;28/06/2020;7;4;R$ 6.900,00;R$ 4.623,00;R$ 2.277,00;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+72;Bola de Vôlei;Esportes;Esportes;58;28/07/2024;72;6;R$ 15.198,00;R$ 9.726,72;R$ 5.471,28;Centro-Oeste;André;Devolução;R$ 261,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;57;06/04/2025;6;7;R$ 33.089,00;R$ 24.816,75;R$ 8.272,25;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;44;06/06/2025;55;10;R$ 1.320,00;R$ 990,00;R$ 330,00;Sudeste;João;Devolução;R$ 231,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;34;14/03/2017;54;1;R$ 3.777,00;R$ 2.568,36;R$ 1.208,64;Centro-Oeste;Carla;Desconto;R$ 404,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;1;02/11/2023;27;1;R$ 546,00;R$ 327,60;R$ 218,40;Sudeste;Ana;Desconto;R$ 259,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;77;08/06/2022;3;10;R$ 14.330,00;R$ 7.594,90;R$ 6.735,10;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;51;09/05/2019;55;6;R$ 654,00;R$ 483,96;R$ 170,04;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;43;05/02/2021;14;3;R$ 2.571,00;R$ 1.594,02;R$ 976,98;Centro-Oeste;Carla;Desconto;R$ 399,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;62;15/06/2015;33;6;R$ 12.480,00;R$ 6.364,80;R$ 6.115,20;Nordeste;Rafael;Desconto;R$ 343,00;Com Perda
+86;Lápis HB;Papelaria;Papelaria;31;12/12/2022;86;3;R$ 8.850,00;R$ 5.752,50;R$ 3.097,50;Sul;Lucas;Cancelamento;R$ 378,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;76;11/12/2017;40;6;R$ 26.760,00;R$ 13.647,60;R$ 13.112,40;Norte;Juliana;Cancelamento;R$ 171,00;Com Perda
+40;Máquina de Lavar Brastemp;Eletrodomésticos;Casa;25;07/10/2016;40;7;R$ 24.668,00;R$ 18.007,64;R$ 6.660,36;Sul;Bruno;Devolução;R$ 285,00;Com Perda
+46;Cadeira Gamer;Móveis;Casa;88;01/03/2019;46;1;R$ 1.539,00;R$ 1.061,91;R$ 477,09;Nordeste;Fernanda;Desconto;R$ 163,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;4;01/12/2021;60;5;R$ 15.230,00;R$ 11.574,80;R$ 3.655,20;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+66;Creme Facial;Beleza;Beleza;49;11/01/2015;66;3;R$ 6.576,00;R$ 4.932,00;R$ 1.644,00;Norte;Paula;Devolução;R$ 373,00;Com Perda
+98;Pen Drive 64GB;Informática;Informática;1;04/11/2025;98;10;R$ 3.470,00;R$ 2.047,30;R$ 1.422,70;Sudeste;Pedro;Desconto;R$ 404,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;64;24/04/2022;70;6;R$ 5.808,00;R$ 4.181,76;R$ 1.626,24;Centro-Oeste;André;Cancelamento;R$ 172,00;Com Perda
+6;Samsung Galaxy S23;Smartphones;Eletrônicos;83;16/10/2024;6;1;R$ 1.625,00;R$ 828,75;R$ 796,25;Nordeste;Rafael;Desconto;R$ 304,00;Com Perda
+52;Tênis Adidas;Calçados;Calçados;29;18/12/2016;52;4;R$ 17.856,00;R$ 12.677,76;R$ 5.178,24;Sul;Maria;Cancelamento;R$ 323,00;Com Perda
+22;MacBook Pro;Notebooks;Informática;18;03/02/2015;22;10;R$ 35.460,00;R$ 23.049,00;R$ 12.411,00;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+34;Microondas Panasonic;Eletrodomésticos;Casa;38;19/09/2023;34;6;R$ 22.176,00;R$ 17.297,28;R$ 4.878,72;Nordeste;Fernanda;Sem perda;R$ 0,00;Com Perda
+88;Estojo Escolar;Papelaria;Papelaria;87;19/03/2016;88;5;R$ 9.955,00;R$ 6.271,65;R$ 3.683,35;Norte;Paula;Cancelamento;R$ 63,00;Com Perda
+63;Vestido Social;Roupas;Roupas;54;05/08/2018;63;9;R$ 19.539,00;R$ 12.700,35;R$ 6.838,65;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;41;27/10/2024;10;3;R$ 11.595,00;R$ 5.797,50;R$ 5.797,50;Sudeste;João;Devolução;R$ 319,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;65;12/03/2024;39;10;R$ 41.240,00;R$ 20.620,00;R$ 20.620,00;Nordeste;Carlos;Cancelamento;R$ 324,00;Com Perda
+69;Condicionador;Beleza;Beleza;50;28/04/2024;69;9;R$ 32.391,00;R$ 18.138,96;R$ 14.252,04;Nordeste;Fernanda;Desconto;R$ 493,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;87;14/02/2022;26;8;R$ 36.560,00;R$ 24.129,60;R$ 12.430,40;Nordeste;Fernanda;Devolução;R$ 315,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;73;18/09/2024;51;4;R$ 6.092,00;R$ 4.508,08;R$ 1.583,92;Centro-Oeste;Diego;Devolução;R$ 341,00;Com Perda
+27;Headset Gamer HyperX;Acessórios;Informática;84;07/10/2022;27;3;R$ 1.641,00;R$ 1.197,93;R$ 443,07;Centro-Oeste;Carla;Desconto;R$ 379,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;47;08/05/2024;39;5;R$ 19.605,00;R$ 12.939,30;R$ 6.665,70;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;65;26/10/2018;58;1;R$ 995,00;R$ 537,30;R$ 457,70;Sudeste;Ana;Desconto;R$ 117,00;Com Perda
+62;Vestido Casual;Roupas;Roupas;19;25/07/2023;62;3;R$ 9.318,00;R$ 5.683,98;R$ 3.634,02;Nordeste;Rafael;Desconto;R$ 92,00;Com Perda
+68;Shampoo;Beleza;Beleza;93;16/11/2025;68;1;R$ 412,00;R$ 251,32;R$ 160,68;Sudeste;João;Devolução;R$ 410,00;Com Perda
+13;Smart TV Samsung 50;TVs;Eletrônicos;46;26/11/2016;13;8;R$ 39.792,00;R$ 24.671,04;R$ 15.120,96;Nordeste;Fernanda;Devolução;R$ 412,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;24;10/05/2017;55;8;R$ 2.824,00;R$ 1.412,00;R$ 1.412,00;Nordeste;Carlos;Devolução;R$ 338,00;Com Perda
+100;Porta Cartão de Couro;Acessórios;Informática;77;03/07/2019;100;2;R$ 3.486,00;R$ 2.475,06;R$ 1.010,94;Sudeste;Pedro;Desconto;R$ 407,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;4;01/10/2020;85;9;R$ 22.680,00;R$ 12.927,60;R$ 9.752,40;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;7;19/04/2022;12;9;R$ 33.435,00;R$ 17.051,85;R$ 16.383,15;Sudeste;João;Devolução;R$ 320,00;Com Perda
+17;Notebook Dell Inspiron;Notebooks;Informática;30;24/09/2025;17;3;R$ 8.184,00;R$ 4.173,84;R$ 4.010,16;Sudeste;João;Desconto;R$ 454,00;Com Perda
+50;Cama Box Solteiro;Móveis;Casa;31;18/02/2018;50;6;R$ 2.958,00;R$ 2.100,18;R$ 857,82;Sul;Bruno;Desconto;R$ 434,00;Com Perda
+58;Camisa Polo;Roupas;Roupas;57;09/09/2016;58;3;R$ 10.509,00;R$ 5.464,68;R$ 5.044,32;Centro-Oeste;Diego;Desconto;R$ 384,00;Com Perda
+11;Smart TV LG 43;TVs;Eletrônicos;76;27/03/2019;11;8;R$ 21.128,00;R$ 15.846,00;R$ 5.282,00;Norte;Juliana;Devolução;R$ 162,00;Com Perda
+87;Mochila Escolar;Papelaria;Papelaria;80;24/01/2025;87;2;R$ 1.142,00;R$ 822,24;R$ 319,76;Norte;Marcos;Cancelamento;R$ 335,00;Com Perda
+20;Notebook Lenovo ThinkPad;Notebooks;Informática;26;14/05/2024;20;3;R$ 6.297,00;R$ 4.218,99;R$ 2.078,01;Norte;Marcos;Desconto;R$ 415,00;Com Perda
+53;Tênis Puma;Calçados;Calçados;13;23/03/2017;53;7;R$ 742,00;R$ 504,56;R$ 237,44;Sudeste;Ana;Cancelamento;R$ 389,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;84;25/07/2025;26;10;R$ 3.380,00;R$ 2.332,20;R$ 1.047,80;Centro-Oeste;Carla;Devolução;R$ 324,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;70;23/01/2023;75;1;R$ 1.626,00;R$ 943,08;R$ 682,92;Norte;Paula;Desconto;R$ 242,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;44;27/07/2022;61;5;R$ 6.735,00;R$ 4.647,15;R$ 2.087,85;Sul;Maria;Desconto;R$ 414,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;25;10/06/2020;82;1;R$ 4.833,00;R$ 3.383,10;R$ 1.449,90;Norte;Juliana;Devolução;R$ 460,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;50;07/08/2022;41;2;R$ 4.398,00;R$ 2.638,80;R$ 1.759,20;Norte;Juliana;Cancelamento;R$ 497,00;Com Perda
+75;Esteira Elétrica;Esportes;Esportes;37;05/06/2024;75;1;R$ 2.444,00;R$ 1.710,80;R$ 733,20;Sul;Bruno;Cancelamento;R$ 473,00;Com Perda
+29;Webcam HD Logitech;Acessórios;Informática;20;13/01/2024;29;1;R$ 599,00;R$ 443,26;R$ 155,74;Centro-Oeste;Carla;Sem perda;R$ 0,00;Com Perda
+92;Monitor LG 24;Informática;Informática;91;15/03/2024;92;8;R$ 15.312,00;R$ 7.962,24;R$ 7.349,76;Norte;Paula;Desconto;R$ 74,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;1;02/07/2022;55;8;R$ 29.128,00;R$ 22.719,84;R$ 6.408,16;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;5;02/06/2015;51;5;R$ 9.655,00;R$ 5.406,80;R$ 4.248,20;Nordeste;Carlos;Devolução;R$ 473,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;74;19/10/2022;82;6;R$ 984,00;R$ 757,68;R$ 226,32;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+1;iPhone 13;Smartphones;Eletrônicos;2;08/09/2016;1;4;R$ 8.956,00;R$ 6.179,64;R$ 2.776,36;Nordeste;Carlos;Cancelamento;R$ 447,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;48;14/11/2023;26;6;R$ 19.782,00;R$ 10.682,28;R$ 9.099,72;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+26;Teclado Logitech;Acessórios;Informática;4;17/04/2025;26;7;R$ 18.690,00;R$ 14.952,00;R$ 3.738,00;Centro-Oeste;Carla;Devolução;R$ 193,00;Com Perda
+86;Lápis HB;Papelaria;Papelaria;50;05/09/2024;86;4;R$ 15.376,00;R$ 8.610,56;R$ 6.765,44;Nordeste;Rafael;Cancelamento;R$ 307,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;50;28/02/2016;54;3;R$ 8.706,00;R$ 5.920,08;R$ 2.785,92;Norte;Paula;Sem perda;R$ 0,00;Com Perda
+60;Jaqueta Jeans;Roupas;Roupas;52;16/01/2017;60;5;R$ 5.660,00;R$ 3.339,40;R$ 2.320,60;Sul;Maria;Devolução;R$ 263,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;73;17/03/2023;3;2;R$ 5.102,00;R$ 2.806,10;R$ 2.295,90;Centro-Oeste;Diego;Cancelamento;R$ 181,00;Com Perda
+70;Bola de Futebol;Esportes;Esportes;46;11/05/2017;70;2;R$ 9.046,00;R$ 6.241,74;R$ 2.804,26;Nordeste;Rafael;Desconto;R$ 330,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;45;12/04/2024;61;4;R$ 6.632,00;R$ 3.846,56;R$ 2.785,44;Sul;Bruno;Cancelamento;R$ 300,00;Com Perda
+39;Fogão 5 bocas;Eletrodomésticos;Casa;9;22/08/2016;39;7;R$ 22.204,00;R$ 13.544,44;R$ 8.659,56;Sudeste;Pedro;Desconto;R$ 450,00;Com Perda
+14;Smart TV Samsung 55;TVs;Eletrônicos;35;15/12/2022;14;8;R$ 31.520,00;R$ 24.585,60;R$ 6.934,40;Sul;Bruno;Devolução;R$ 313,00;Com Perda
+57;Sandália Feminina;Calçados;Calçados;79;23/05/2022;57;6;R$ 12.564,00;R$ 8.669,16;R$ 3.894,84;Sudeste;Pedro;Cancelamento;R$ 268,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;9;14/10/2016;78;9;R$ 1.503,00;R$ 1.142,28;R$ 360,72;Sudeste;Ana;Devolução;R$ 343,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;93;06/04/2024;30;3;R$ 7.509,00;R$ 5.181,21;R$ 2.327,79;Sudeste;Ana;Cancelamento;R$ 355,00;Com Perda
+92;Monitor LG 24;Informática;Informática;51;08/07/2020;92;10;R$ 44.430,00;R$ 27.546,60;R$ 16.883,40;Centro-Oeste;André;Cancelamento;R$ 68,00;Com Perda
+91;Scanner Epson;Informática;Informática;98;01/11/2022;91;6;R$ 9.972,00;R$ 6.282,36;R$ 3.689,64;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+67;Hidratante Corporal;Beleza;Beleza;56;01/01/2018;67;1;R$ 3.095,00;R$ 2.104,60;R$ 990,40;Nordeste;Rafael;Sem perda;R$ 0,00;Com Perda
+66;Creme Facial;Beleza;Beleza;3;08/09/2024;66;9;R$ 7.722,00;R$ 3.861,00;R$ 3.861,00;Nordeste;Fernanda;Devolução;R$ 127,00;Com Perda
+4;Samsung Galaxy S21;Smartphones;Eletrônicos;44;25/06/2022;4;1;R$ 2.415,00;R$ 1.521,45;R$ 893,55;Centro-Oeste;André;Cancelamento;R$ 272,00;Com Perda
+54;Sapato Social Masculino;Calçados;Calçados;26;06/09/2021;54;5;R$ 5.885,00;R$ 3.766,40;R$ 2.118,60;Centro-Oeste;Diego;Sem perda;R$ 0,00;Com Perda
+56;Chinelo Havaianas;Calçados;Calçados;51;20/06/2018;56;1;R$ 582,00;R$ 459,78;R$ 122,22;Sul;Lucas;Cancelamento;R$ 188,00;Com Perda
+15;Smart TV TCL 43;TVs;Eletrônicos;62;06/02/2025;15;9;R$ 20.529,00;R$ 16.423,20;R$ 4.105,80;Norte;Paula;Devolução;R$ 174,00;Com Perda
+2;iPhone 14;Smartphones;Eletrônicos;46;27/11/2023;2;3;R$ 5.574,00;R$ 3.511,62;R$ 2.062,38;Norte;Paula;Desconto;R$ 110,00;Com Perda
+30;Webcam Full HD;Acessórios;Informática;22;25/08/2017;30;7;R$ 805,00;R$ 426,65;R$ 378,35;Sudeste;Ana;Cancelamento;R$ 226,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;15;13/01/2022;51;6;R$ 29.754,00;R$ 23.208,12;R$ 6.545,88;Sul;Maria;Desconto;R$ 305,00;Com Perda
+33;Geladeira Samsung;Eletrodomésticos;Casa;21;01/12/2021;33;8;R$ 35.944,00;R$ 24.441,92;R$ 11.502,08;Centro-Oeste;Carla;Devolução;R$ 385,00;Com Perda
+23;Mouse Logitech;Acessórios;Informática;96;26/02/2019;23;10;R$ 30.820,00;R$ 20.341,20;R$ 10.478,80;Norte;Marcos;Sem perda;R$ 0,00;Com Perda
+82;Palheta Limpador;Automotivo;Automotivo;87;04/12/2021;82;7;R$ 9.821,00;R$ 5.008,71;R$ 4.812,29;Sul;Lucas;Sem perda;R$ 0,00;Com Perda
+12;Smart TV LG 50;TVs;Eletrônicos;10;22/08/2025;12;2;R$ 9.328,00;R$ 6.343,04;R$ 2.984,96;Nordeste;Carlos;Sem perda;R$ 0,00;Com Perda
+3;iPhone 15;Smartphones;Eletrônicos;54;27/12/2020;3;3;R$ 14.595,00;R$ 10.216,50;R$ 4.378,50;Sul;Maria;Sem perda;R$ 0,00;Com Perda
+96;HD Externo 1TB;Informática;Informática;29;23/05/2016;96;5;R$ 18.005,00;R$ 12.783,55;R$ 5.221,45;Norte;Paula;Desconto;R$ 424,00;Com Perda
+66;Creme Facial;Beleza;Beleza;57;20/09/2015;66;10;R$ 30.290,00;R$ 15.447,90;R$ 14.842,10;Nordeste;Fernanda;Devolução;R$ 485,00;Com Perda
+51;Tênis Nike;Calçados;Calçados;58;09/11/2015;51;5;R$ 5.185,00;R$ 2.851,75;R$ 2.333,25;Norte;Paula;Devolução;R$ 411,00;Com Perda
+41;Máquina de Lavar Electrolux;Eletrodomésticos;Casa;47;13/04/2017;41;4;R$ 14.116,00;R$ 10.163,52;R$ 3.952,48;Sul;Bruno;Sem perda;R$ 0,00;Com Perda
+88;Estojo Escolar;Papelaria;Papelaria;68;19/06/2017;88;2;R$ 7.196,00;R$ 4.677,40;R$ 2.518,60;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+32;Geladeira Electrolux;Eletrodomésticos;Casa;31;17/05/2018;32;8;R$ 13.232,00;R$ 8.865,44;R$ 4.366,56;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+78;Pneu Aro 15;Automotivo;Automotivo;6;05/02/2023;78;10;R$ 46.680,00;R$ 36.877,20;R$ 9.802,80;Centro-Oeste;André;Devolução;R$ 115,00;Com Perda
+84;Caderno Espiral;Papelaria;Papelaria;76;17/07/2021;84;3;R$ 5.895,00;R$ 3.124,35;R$ 2.770,65;Sudeste;João;Desconto;R$ 354,00;Com Perda
+71;Bola de Basquete;Esportes;Esportes;28;20/07/2022;71;9;R$ 30.249,00;R$ 19.056,87;R$ 11.192,13;Sul;Bruno;Devolução;R$ 484,00;Com Perda
+50;Cama Box Solteiro;Móveis;Casa;10;15/12/2022;50;9;R$ 32.535,00;R$ 16.592,85;R$ 15.942,15;Sul;Bruno;Desconto;R$ 91,00;Com Perda
+55;Sapato Social Feminino;Calçados;Calçados;57;23/12/2017;55;5;R$ 21.565,00;R$ 15.095,50;R$ 6.469,50;Nordeste;Rafael;Devolução;R$ 351,00;Com Perda
+69;Condicionador;Beleza;Beleza;9;28/10/2020;69;2;R$ 1.648,00;R$ 1.318,40;R$ 329,60;Sudeste;João;Sem perda;R$ 0,00;Com Perda
+85;Caneta Esferográfica;Papelaria;Papelaria;55;20/09/2022;85;1;R$ 1.210,00;R$ 834,90;R$ 375,10;Nordeste;Rafael;Cancelamento;R$ 130,00;Com Perda
+37;Air Fryer Philips;Eletrodomésticos;Casa;9;09/01/2025;37;4;R$ 11.840,00;R$ 6.512,00;R$ 5.328,00;Centro-Oeste;Diego;Desconto;R$ 219,00;Com Perda
+37;Air Fryer Philips;Eletrodomésticos;Casa;53;25/08/2015;37;9;R$ 10.161,00;R$ 7.722,36;R$ 2.438,64;Nordeste;Carlos;Devolução;R$ 271,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;88;27/03/2018;81;1;R$ 4.008,00;R$ 3.206,40;R$ 801,60;Sudeste;João;Devolução;R$ 397,00;Com Perda
+61;Jaqueta de Couro;Roupas;Roupas;100;17/07/2023;61;7;R$ 28.000,00;R$ 16.520,00;R$ 11.480,00;Sudeste;João;Devolução;R$ 378,00;Com Perda
+10;Motorola G200;Smartphones;Eletrônicos;43;13/05/2015;10;7;R$ 1.246,00;R$ 909,58;R$ 336,42;Norte;Paula;Desconto;R$ 450,00;Com Perda
+92;Monitor LG 24;Informática;Informática;72;13/11/2016;92;10;R$ 1.170,00;R$ 889,20;R$ 280,80;Nordeste;Rafael;Cancelamento;R$ 294,00;Com Perda
+81;Bateria Automotiva;Automotivo;Automotivo;22;15/12/2016;81;4;R$ 8.348,00;R$ 4.507,92;R$ 3.840,08;Norte;Juliana;Sem perda;R$ 0,00;Com Perda
+99;Pen Drive 128GB;Informática;Informática;71;03/12/2015;99;7;R$ 8.771,00;R$ 4.385,50;R$ 4.385,50;Sudeste;Ana;Sem perda;R$ 0,00;Com Perda
